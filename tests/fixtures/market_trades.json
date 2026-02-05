@@ -1,0 +1,4676 @@
+[
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:58:55.193609115Z",
+    "sequence_num": 11,
+    "events": [
+      {
+        "type": "snapshot",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920467",
+            "price": "87472.7",
+            "size": "0.00029279",
+            "time": "2025-12-28T20:58:54.846487Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920466",
+            "price": "87472.7",
+            "size": "0.0127757",
+            "time": "2025-12-28T20:58:54.268516Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920465",
+            "price": "87472.69",
+            "size": "0.00000022",
+            "time": "2025-12-28T20:58:53.269927Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920464",
+            "price": "87472.7",
+            "size": "0.00481007",
+            "time": "2025-12-28T20:58:53.150827Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920463",
+            "price": "87472.7",
+            "size": "0.00011318",
+            "time": "2025-12-28T20:58:51.486927Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920462",
+            "price": "87472.7",
+            "size": "0.00056589",
+            "time": "2025-12-28T20:58:51.454015Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920461",
+            "price": "87472.7",
+            "size": "0.00055548",
+            "time": "2025-12-28T20:58:51.442131Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920460",
+            "price": "87472.7",
+            "size": "0.00055547",
+            "time": "2025-12-28T20:58:51.354562Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920459",
+            "price": "87472.69",
+            "size": "0.00321289",
+            "time": "2025-12-28T20:58:51.235124Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920458",
+            "price": "87472.69",
+            "size": "0.00002407",
+            "time": "2025-12-28T20:58:51.235124Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920457",
+            "price": "87472.69",
+            "size": "0.00006607",
+            "time": "2025-12-28T20:58:51.235124Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920456",
+            "price": "87472.69",
+            "size": "0.00002931",
+            "time": "2025-12-28T20:58:51.235124Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920455",
+            "price": "87472.69",
+            "size": "0.0001316",
+            "time": "2025-12-28T20:58:51.235124Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920454",
+            "price": "87472.69",
+            "size": "0.00000022",
+            "time": "2025-12-28T20:58:50.546714Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920453",
+            "price": "87472.7",
+            "size": "0.00108436",
+            "time": "2025-12-28T20:58:48.987353Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920452",
+            "price": "87472.69",
+            "size": "0.00000022",
+            "time": "2025-12-28T20:58:47.880013Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920451",
+            "price": "87472.7",
+            "size": "0.00055548",
+            "time": "2025-12-28T20:58:47.147953Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920450",
+            "price": "87472.7",
+            "size": "0.00011035",
+            "time": "2025-12-28T20:58:46.927565Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920449",
+            "price": "87472.7",
+            "size": "0.00018109",
+            "time": "2025-12-28T20:58:46.041755Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920448",
+            "price": "87472.7",
+            "size": "0.00027774",
+            "time": "2025-12-28T20:58:45.474484Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920447",
+            "price": "87472.69",
+            "size": "0.00000022",
+            "time": "2025-12-28T20:58:45.253021Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920446",
+            "price": "87472.7",
+            "size": "0.00408134",
+            "time": "2025-12-28T20:58:45.144442Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920445",
+            "price": "87472.7",
+            "size": "0.00047295",
+            "time": "2025-12-28T20:58:45.144442Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920444",
+            "price": "87472.7",
+            "size": "0.00012735",
+            "time": "2025-12-28T20:58:44.805493Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920443",
+            "price": "87472.7",
+            "size": "0.00054212",
+            "time": "2025-12-28T20:58:44.485405Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920442",
+            "price": "87472.72",
+            "size": "0.02297664",
+            "time": "2025-12-28T20:58:44.308071Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920441",
+            "price": "87472.7",
+            "size": "0.022845",
+            "time": "2025-12-28T20:58:44.308071Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920440",
+            "price": "87472.7",
+            "size": "0.00342963",
+            "time": "2025-12-28T20:58:44.308071Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920439",
+            "price": "87472.7",
+            "size": "0.007495",
+            "time": "2025-12-28T20:58:44.308071Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920438",
+            "price": "87472.7",
+            "size": "0.005711",
+            "time": "2025-12-28T20:58:44.308071Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920437",
+            "price": "87472.7",
+            "size": "0.000178",
+            "time": "2025-12-28T20:58:44.308071Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920436",
+            "price": "87472.7",
+            "size": "0.02286427",
+            "time": "2025-12-28T20:58:44.308071Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920435",
+            "price": "87472.7",
+            "size": "0.00114242",
+            "time": "2025-12-28T20:58:44.308071Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920434",
+            "price": "87472.7",
+            "size": "0.001111",
+            "time": "2025-12-28T20:58:44.308071Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920433",
+            "price": "87472.7",
+            "size": "0.000113",
+            "time": "2025-12-28T20:58:44.308071Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920432",
+            "price": "87472.7",
+            "size": "0.000142",
+            "time": "2025-12-28T20:58:44.308071Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920431",
+            "price": "87472.7",
+            "size": "0.000608",
+            "time": "2025-12-28T20:58:44.308071Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920430",
+            "price": "87472.7",
+            "size": "0.000984",
+            "time": "2025-12-28T20:58:44.308071Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920429",
+            "price": "87472.7",
+            "size": "0.01276601",
+            "time": "2025-12-28T20:58:44.308071Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920428",
+            "price": "87472.7",
+            "size": "0.0108122",
+            "time": "2025-12-28T20:58:44.308071Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920427",
+            "price": "87472.7",
+            "size": "0.02021988",
+            "time": "2025-12-28T20:58:43.606465Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920426",
+            "price": "87472.7",
+            "size": "0.00238557",
+            "time": "2025-12-28T20:58:43.508563Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920425",
+            "price": "87472.7",
+            "size": "0.00024",
+            "time": "2025-12-28T20:58:43.315438Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920424",
+            "price": "87472.7",
+            "size": "0.00177",
+            "time": "2025-12-28T20:58:43.053074Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920423",
+            "price": "87472.7",
+            "size": "0.00017",
+            "time": "2025-12-28T20:58:43.015604Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920422",
+            "price": "87472.7",
+            "size": "0.00555478",
+            "time": "2025-12-28T20:58:43.006572Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920421",
+            "price": "87472.69",
+            "size": "0.00011546",
+            "time": "2025-12-28T20:58:42.802989Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920420",
+            "price": "87472.69",
+            "size": "0.00000022",
+            "time": "2025-12-28T20:58:42.675829Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920419",
+            "price": "87472.7",
+            "size": "0.00571127",
+            "time": "2025-12-28T20:58:42.374664Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920418",
+            "price": "87472.7",
+            "size": "0.0001666",
+            "time": "2025-12-28T20:58:41.930598Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920417",
+            "price": "87472.69",
+            "size": "0.00000022",
+            "time": "2025-12-28T20:58:39.952439Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920416",
+            "price": "87472.7",
+            "size": "0.0000112",
+            "time": "2025-12-28T20:58:37.510027Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920415",
+            "price": "87472.69",
+            "size": "0.00000022",
+            "time": "2025-12-28T20:58:37.36582Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920414",
+            "price": "87472.7",
+            "size": "0.00111096",
+            "time": "2025-12-28T20:58:37.21072Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920413",
+            "price": "87472.69",
+            "size": "0.00002927",
+            "time": "2025-12-28T20:58:36.700958Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920412",
+            "price": "87472.69",
+            "size": "0.00067277",
+            "time": "2025-12-28T20:58:36.57245Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920411",
+            "price": "87472.7",
+            "size": "0.00011318",
+            "time": "2025-12-28T20:58:36.290317Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920410",
+            "price": "87472.7",
+            "size": "0.00003112",
+            "time": "2025-12-28T20:58:34.927533Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920409",
+            "price": "87472.7",
+            "size": "0.00011035",
+            "time": "2025-12-28T20:58:34.766221Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920408",
+            "price": "87472.69",
+            "size": "0.00000022",
+            "time": "2025-12-28T20:58:34.714111Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920407",
+            "price": "87472.7",
+            "size": "0.00010842",
+            "time": "2025-12-28T20:58:34.393141Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920406",
+            "price": "87472.7",
+            "size": "0.00021685",
+            "time": "2025-12-28T20:58:34.23544Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920405",
+            "price": "87472.7",
+            "size": "0.00028295",
+            "time": "2025-12-28T20:58:34.128413Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920404",
+            "price": "87472.7",
+            "size": "0.00055548",
+            "time": "2025-12-28T20:58:33.831287Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920403",
+            "price": "87472.7",
+            "size": "0.00005421",
+            "time": "2025-12-28T20:58:33.733199Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920402",
+            "price": "87472.7",
+            "size": "0.00005376",
+            "time": "2025-12-28T20:58:33.593334Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920401",
+            "price": "87472.7",
+            "size": "0.00008092",
+            "time": "2025-12-28T20:58:33.540614Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920400",
+            "price": "87472.7",
+            "size": "0.0002403",
+            "time": "2025-12-28T20:58:33.534529Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920399",
+            "price": "87472.7",
+            "size": "0.0011484",
+            "time": "2025-12-28T20:58:33.534529Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920398",
+            "price": "87472.7",
+            "size": "0.00172416",
+            "time": "2025-12-28T20:58:33.403115Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920397",
+            "price": "87472.7",
+            "size": "0.0001666",
+            "time": "2025-12-28T20:58:33.104486Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920396",
+            "price": "87472.7",
+            "size": "0.00005376",
+            "time": "2025-12-28T20:58:32.771152Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920395",
+            "price": "87472.69",
+            "size": "0.00000022",
+            "time": "2025-12-28T20:58:32.526712Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920394",
+            "price": "87472.7",
+            "size": "0.00011035",
+            "time": "2025-12-28T20:58:32.289029Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920393",
+            "price": "87472.7",
+            "size": "0.00022636",
+            "time": "2025-12-28T20:58:32.266704Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920392",
+            "price": "87472.7",
+            "size": "0.00111096",
+            "time": "2025-12-28T20:58:31.965419Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920391",
+            "price": "87472.7",
+            "size": "0.00011035",
+            "time": "2025-12-28T20:58:30.393349Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920390",
+            "price": "87472.7",
+            "size": "0.00209688",
+            "time": "2025-12-28T20:58:29.947875Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920389",
+            "price": "87472.7",
+            "size": "0.00012386",
+            "time": "2025-12-28T20:58:29.947875Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920388",
+            "price": "87472.69",
+            "size": "0.00000022",
+            "time": "2025-12-28T20:58:29.831983Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920387",
+            "price": "87472.7",
+            "size": "0.00016977",
+            "time": "2025-12-28T20:58:29.510937Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920386",
+            "price": "87472.7",
+            "size": "0.00084884",
+            "time": "2025-12-28T20:58:29.319349Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920385",
+            "price": "87472.69",
+            "size": "0.00028868",
+            "time": "2025-12-28T20:58:28.816868Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920384",
+            "price": "87472.69",
+            "size": "0.00067959",
+            "time": "2025-12-28T20:58:28.620818Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920383",
+            "price": "87472.71",
+            "size": "0.00100878",
+            "time": "2025-12-28T20:58:28.53972Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920382",
+            "price": "87472.7",
+            "size": "0.001627",
+            "time": "2025-12-28T20:58:28.53972Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920381",
+            "price": "87472.7",
+            "size": "0.000339",
+            "time": "2025-12-28T20:58:28.53972Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920380",
+            "price": "87472.7",
+            "size": "0.002583",
+            "time": "2025-12-28T20:58:28.53972Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920379",
+            "price": "87472.7",
+            "size": "0.00114243",
+            "time": "2025-12-28T20:58:28.53972Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920378",
+            "price": "87472.7",
+            "size": "0.00342963",
+            "time": "2025-12-28T20:58:28.53972Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920377",
+            "price": "87472.7",
+            "size": "0.028079",
+            "time": "2025-12-28T20:58:28.53972Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920376",
+            "price": "87472.7",
+            "size": "0.00015821",
+            "time": "2025-12-28T20:58:28.53972Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920375",
+            "price": "87472.7",
+            "size": "0.00051",
+            "time": "2025-12-28T20:58:28.53972Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920374",
+            "price": "87472.7",
+            "size": "0.00181",
+            "time": "2025-12-28T20:58:28.53972Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920373",
+            "price": "87472.7",
+            "size": "0.000548",
+            "time": "2025-12-28T20:58:28.53972Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920372",
+            "price": "87472.7",
+            "size": "0.00064",
+            "time": "2025-12-28T20:58:28.53972Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920371",
+            "price": "87472.7",
+            "size": "0.000315",
+            "time": "2025-12-28T20:58:28.53972Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920370",
+            "price": "87472.7",
+            "size": "0.000555",
+            "time": "2025-12-28T20:58:28.53972Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920369",
+            "price": "87472.7",
+            "size": "0.01286968",
+            "time": "2025-12-28T20:58:28.53972Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920368",
+            "price": "87472.7",
+            "size": "0.0001242",
+            "time": "2025-12-28T20:58:28.505994Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:58:55.558946707Z",
+    "sequence_num": 22,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920468",
+            "price": "87472.69",
+            "size": "0.00000022",
+            "time": "2025-12-28T20:58:55.480018Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:58:57.060206149Z",
+    "sequence_num": 45,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920469",
+            "price": "87472.7",
+            "size": "0.00046",
+            "time": "2025-12-28T20:58:56.986618Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:58:57.959674143Z",
+    "sequence_num": 59,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920470",
+            "price": "87472.69",
+            "size": "0.00000022",
+            "time": "2025-12-28T20:58:57.880651Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:58:58.359135958Z",
+    "sequence_num": 66,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920471",
+            "price": "87472.69",
+            "size": "0.00012736",
+            "time": "2025-12-28T20:58:58.324164Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:00.059176976Z",
+    "sequence_num": 94,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920472",
+            "price": "87472.69",
+            "size": "0.00000022",
+            "time": "2025-12-28T20:59:00.020719Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:00.260422164Z",
+    "sequence_num": 101,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920473",
+            "price": "87472.7",
+            "size": "0.0002602",
+            "time": "2025-12-28T20:59:00.163637Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:00.358642534Z",
+    "sequence_num": 104,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920474",
+            "price": "87472.7",
+            "size": "0.00108436",
+            "time": "2025-12-28T20:59:00.250884Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:01.158661053Z",
+    "sequence_num": 123,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920475",
+            "price": "87472.69",
+            "size": "0.00034296",
+            "time": "2025-12-28T20:59:01.043771Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:02.559200829Z",
+    "sequence_num": 149,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920476",
+            "price": "87472.69",
+            "size": "0.00000022",
+            "time": "2025-12-28T20:59:02.469495Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:03.158319151Z",
+    "sequence_num": 159,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920477",
+            "price": "87472.7",
+            "size": "0.00113",
+            "time": "2025-12-28T20:59:03.117318Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:03.760042806Z",
+    "sequence_num": 172,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920483",
+            "price": "87472.69",
+            "size": "0.00338602",
+            "time": "2025-12-28T20:59:03.715475Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920482",
+            "price": "87472.69",
+            "size": "0.00005956",
+            "time": "2025-12-28T20:59:03.715475Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920481",
+            "price": "87472.69",
+            "size": "0.00013021",
+            "time": "2025-12-28T20:59:03.715475Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920480",
+            "price": "87472.69",
+            "size": "0.00002931",
+            "time": "2025-12-28T20:59:03.715475Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920479",
+            "price": "87472.69",
+            "size": "0.00013638",
+            "time": "2025-12-28T20:59:03.715475Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920478",
+            "price": "87472.69",
+            "size": "0.00203175",
+            "time": "2025-12-28T20:59:03.715475Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:04.558997842Z",
+    "sequence_num": 185,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920484",
+            "price": "87472.69",
+            "size": "0.00004837",
+            "time": "2025-12-28T20:59:04.44751Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:04.960749183Z",
+    "sequence_num": 194,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920485",
+            "price": "87472.69",
+            "size": "0.00000022",
+            "time": "2025-12-28T20:59:04.843471Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:05.558573818Z",
+    "sequence_num": 205,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920486",
+            "price": "87472.7",
+            "size": "0.00030681",
+            "time": "2025-12-28T20:59:05.433738Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:06.159213247Z",
+    "sequence_num": 217,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920487",
+            "price": "87472.7",
+            "size": "0.00001358",
+            "time": "2025-12-28T20:59:06.145883Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:06.858389603Z",
+    "sequence_num": 234,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920488",
+            "price": "87472.7",
+            "size": "0.00008583",
+            "time": "2025-12-28T20:59:06.794312Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:07.559433782Z",
+    "sequence_num": 249,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920489",
+            "price": "87472.69",
+            "size": "0.00000022",
+            "time": "2025-12-28T20:59:07.506488Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:09.359815105Z",
+    "sequence_num": 285,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920490",
+            "price": "87472.7",
+            "size": "0.00027774",
+            "time": "2025-12-28T20:59:09.303829Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:09.458320128Z",
+    "sequence_num": 289,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920491",
+            "price": "87472.7",
+            "size": "0.00071662",
+            "time": "2025-12-28T20:59:09.363566Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:09.774363168Z",
+    "sequence_num": 297,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920522",
+            "price": "87472.7",
+            "size": "0.0000401",
+            "time": "2025-12-28T20:59:09.708416Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920521",
+            "price": "87472.69",
+            "size": "0.00000022",
+            "time": "2025-12-28T20:59:09.685973Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920520",
+            "price": "87474.01",
+            "size": "0.00184347",
+            "time": "2025-12-28T20:59:09.648618Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920519",
+            "price": "87474",
+            "size": "0.00307551",
+            "time": "2025-12-28T20:59:09.648618Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920518",
+            "price": "87473.66",
+            "size": "0.05716006",
+            "time": "2025-12-28T20:59:09.648618Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920517",
+            "price": "87473.66",
+            "size": "0.0034296",
+            "time": "2025-12-28T20:59:09.648618Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920516",
+            "price": "87472.72",
+            "size": "0.022976",
+            "time": "2025-12-28T20:59:09.648618Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920515",
+            "price": "87472.72",
+            "size": "0.02702336",
+            "time": "2025-12-28T20:59:09.648618Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920514",
+            "price": "87472.71",
+            "size": "0.02701969",
+            "time": "2025-12-28T20:59:09.648618Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920513",
+            "price": "87472.71",
+            "size": "0.05557278",
+            "time": "2025-12-28T20:59:09.648618Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920512",
+            "price": "87472.7",
+            "size": "0.000995",
+            "time": "2025-12-28T20:59:09.648618Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920511",
+            "price": "87472.7",
+            "size": "0.00114245",
+            "time": "2025-12-28T20:59:09.648618Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920510",
+            "price": "87472.7",
+            "size": "0.000086",
+            "time": "2025-12-28T20:59:09.648618Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920509",
+            "price": "87472.7",
+            "size": "0.000013",
+            "time": "2025-12-28T20:59:09.648618Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920508",
+            "price": "87472.7",
+            "size": "0.000307",
+            "time": "2025-12-28T20:59:09.648618Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920507",
+            "price": "87472.7",
+            "size": "0.00653488",
+            "time": "2025-12-28T20:59:09.648618Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920506",
+            "price": "87472.7",
+            "size": "0.00113",
+            "time": "2025-12-28T20:59:09.648618Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920505",
+            "price": "87472.7",
+            "size": "0.001345",
+            "time": "2025-12-28T20:59:09.648618Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920504",
+            "price": "87472.7",
+            "size": "0.00046",
+            "time": "2025-12-28T20:59:09.648618Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920503",
+            "price": "87472.7",
+            "size": "0.000292",
+            "time": "2025-12-28T20:59:09.648618Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920502",
+            "price": "87472.7",
+            "size": "0.012776",
+            "time": "2025-12-28T20:59:09.648618Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920501",
+            "price": "87472.7",
+            "size": "0.00481",
+            "time": "2025-12-28T20:59:09.648618Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920500",
+            "price": "87472.7",
+            "size": "0.00179",
+            "time": "2025-12-28T20:59:09.648618Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920499",
+            "price": "87472.7",
+            "size": "0.00571606",
+            "time": "2025-12-28T20:59:09.648618Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920498",
+            "price": "87472.7",
+            "size": "0.001084",
+            "time": "2025-12-28T20:59:09.648618Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920497",
+            "price": "87472.7",
+            "size": "0.000556",
+            "time": "2025-12-28T20:59:09.648618Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920496",
+            "price": "87472.7",
+            "size": "0.00011",
+            "time": "2025-12-28T20:59:09.648618Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920495",
+            "price": "87472.7",
+            "size": "0.000181",
+            "time": "2025-12-28T20:59:09.648618Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920494",
+            "price": "87472.7",
+            "size": "0.000278",
+            "time": "2025-12-28T20:59:09.648618Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920493",
+            "price": "87472.7",
+            "size": "0.004081",
+            "time": "2025-12-28T20:59:09.648618Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920492",
+            "price": "87472.7",
+            "size": "0.01970592",
+            "time": "2025-12-28T20:59:09.648618Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:09.95938164Z",
+    "sequence_num": 303,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920524",
+            "price": "87472.69",
+            "size": "0.00029163",
+            "time": "2025-12-28T20:59:09.922858Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920523",
+            "price": "87472.69",
+            "size": "0.0114238",
+            "time": "2025-12-28T20:59:09.845383Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:10.159730232Z",
+    "sequence_num": 308,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920525",
+            "price": "87472.7",
+            "size": "0.0001142",
+            "time": "2025-12-28T20:59:10.122336Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:10.258113017Z",
+    "sequence_num": 313,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920526",
+            "price": "87472.7",
+            "size": "0.00033953",
+            "time": "2025-12-28T20:59:10.159696Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:11.459187524Z",
+    "sequence_num": 339,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920527",
+            "price": "87472.7",
+            "size": "0.00113178",
+            "time": "2025-12-28T20:59:11.437018Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:11.759829323Z",
+    "sequence_num": 347,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920528",
+            "price": "87472.7",
+            "size": "0.00022433",
+            "time": "2025-12-28T20:59:11.664921Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:11.959619068Z",
+    "sequence_num": 351,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920529",
+            "price": "87472.7",
+            "size": "0.00108436",
+            "time": "2025-12-28T20:59:11.87583Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:12.159083992Z",
+    "sequence_num": 355,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920530",
+            "price": "87472.69",
+            "size": "0.00000022",
+            "time": "2025-12-28T20:59:12.102736Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:12.258597782Z",
+    "sequence_num": 360,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920532",
+            "price": "87472.69",
+            "size": "0.01616023",
+            "time": "2025-12-28T20:59:12.197637Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920531",
+            "price": "87472.69",
+            "size": "0.01698611",
+            "time": "2025-12-28T20:59:12.197637Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:13.060082556Z",
+    "sequence_num": 373,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920533",
+            "price": "87472.69",
+            "size": "0.00001125",
+            "time": "2025-12-28T20:59:12.951738Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:13.260539992Z",
+    "sequence_num": 378,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920535",
+            "price": "87472.7",
+            "size": "0.00062259",
+            "time": "2025-12-28T20:59:13.23288Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920534",
+            "price": "87472.7",
+            "size": "0.00278176",
+            "time": "2025-12-28T20:59:13.23288Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:13.773419903Z",
+    "sequence_num": 389,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920566",
+            "price": "87464.96",
+            "size": "0.000013",
+            "time": "2025-12-28T20:59:13.655648Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920565",
+            "price": "87465.55",
+            "size": "0.02515857",
+            "time": "2025-12-28T20:59:13.655648Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920564",
+            "price": "87465.55",
+            "size": "0.08732914",
+            "time": "2025-12-28T20:59:13.653714Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920563",
+            "price": "87466",
+            "size": "0.00565972",
+            "time": "2025-12-28T20:59:13.653714Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920562",
+            "price": "87471.38",
+            "size": "0.01371877",
+            "time": "2025-12-28T20:59:13.653714Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920561",
+            "price": "87472.69",
+            "size": "0.01143212",
+            "time": "2025-12-28T20:59:13.653714Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920560",
+            "price": "87472.69",
+            "size": "0.00002068",
+            "time": "2025-12-28T20:59:13.653714Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920559",
+            "price": "87466",
+            "size": "0.00001124",
+            "time": "2025-12-28T20:59:13.643092Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920558",
+            "price": "87466",
+            "size": "0.00001124",
+            "time": "2025-12-28T20:59:13.643092Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920557",
+            "price": "87467.05",
+            "size": "0.02073862",
+            "time": "2025-12-28T20:59:13.643092Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920556",
+            "price": "87468",
+            "size": "0.0135",
+            "time": "2025-12-28T20:59:13.643092Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920555",
+            "price": "87468.94",
+            "size": "0.0717904",
+            "time": "2025-12-28T20:59:13.643092Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920554",
+            "price": "87470",
+            "size": "0.0128",
+            "time": "2025-12-28T20:59:13.643092Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920553",
+            "price": "87470.08",
+            "size": "0.000013",
+            "time": "2025-12-28T20:59:13.643092Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920552",
+            "price": "87470.69",
+            "size": "0.07124095",
+            "time": "2025-12-28T20:59:13.643092Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920551",
+            "price": "87470.71",
+            "size": "0.00914",
+            "time": "2025-12-28T20:59:13.643092Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920550",
+            "price": "87471.38",
+            "size": "0.01371877",
+            "time": "2025-12-28T20:59:13.643092Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920549",
+            "price": "87472",
+            "size": "0.0128",
+            "time": "2025-12-28T20:59:13.643092Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920548",
+            "price": "87472.42",
+            "size": "0.00914",
+            "time": "2025-12-28T20:59:13.643092Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920547",
+            "price": "87472.46",
+            "size": "0.00914",
+            "time": "2025-12-28T20:59:13.643092Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920546",
+            "price": "87472.69",
+            "size": "0.01143212",
+            "time": "2025-12-28T20:59:13.643092Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920545",
+            "price": "87472.69",
+            "size": "0.00342963",
+            "time": "2025-12-28T20:59:13.643092Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920544",
+            "price": "87472.69",
+            "size": "0.00012895",
+            "time": "2025-12-28T20:59:13.643092Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920543",
+            "price": "87472.69",
+            "size": "0.05714348",
+            "time": "2025-12-28T20:59:13.643092Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920542",
+            "price": "87472.69",
+            "size": "0.00001955",
+            "time": "2025-12-28T20:59:13.643092Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920541",
+            "price": "87472.69",
+            "size": "0.01825",
+            "time": "2025-12-28T20:59:13.643092Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920540",
+            "price": "87472.69",
+            "size": "0.00002924",
+            "time": "2025-12-28T20:59:13.643092Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920539",
+            "price": "87472.69",
+            "size": "0.00013684",
+            "time": "2025-12-28T20:59:13.643092Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920538",
+            "price": "87472.69",
+            "size": "0.00571606",
+            "time": "2025-12-28T20:59:13.643092Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920537",
+            "price": "87472.69",
+            "size": "0.01888096",
+            "time": "2025-12-28T20:59:13.643092Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920536",
+            "price": "87472.69",
+            "size": "0.0056483",
+            "time": "2025-12-28T20:59:13.643092Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:13.859356055Z",
+    "sequence_num": 392,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920569",
+            "price": "87460",
+            "size": "0.00001119",
+            "time": "2025-12-28T20:59:13.711713Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920568",
+            "price": "87460",
+            "size": "0.00001118",
+            "time": "2025-12-28T20:59:13.711713Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920567",
+            "price": "87460.01",
+            "size": "0.00032527",
+            "time": "2025-12-28T20:59:13.711713Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:14.359082263Z",
+    "sequence_num": 409,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920570",
+            "price": "87460.01",
+            "size": "0.00028295",
+            "time": "2025-12-28T20:59:14.317161Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:14.559089856Z",
+    "sequence_num": 415,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920572",
+            "price": "87460.02",
+            "size": "0.00713482",
+            "time": "2025-12-28T20:59:14.487788Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920571",
+            "price": "87460.01",
+            "size": "0.00085967",
+            "time": "2025-12-28T20:59:14.487788Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:14.658215292Z",
+    "sequence_num": 419,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920574",
+            "price": "87460.02",
+            "size": "0.00007773",
+            "time": "2025-12-28T20:59:14.627288Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920573",
+            "price": "87460.02",
+            "size": "0.00036523",
+            "time": "2025-12-28T20:59:14.607365Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:14.758672674Z",
+    "sequence_num": 423,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920575",
+            "price": "87460.01",
+            "size": "0.00000022",
+            "time": "2025-12-28T20:59:14.681222Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:15.459445783Z",
+    "sequence_num": 440,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920576",
+            "price": "87460.01",
+            "size": "0.000117",
+            "time": "2025-12-28T20:59:15.344042Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:17.159177528Z",
+    "sequence_num": 468,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920577",
+            "price": "87460.01",
+            "size": "0.00000022",
+            "time": "2025-12-28T20:59:17.068767Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:17.95977773Z",
+    "sequence_num": 486,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920579",
+            "price": "87460.01",
+            "size": "0.0005598",
+            "time": "2025-12-28T20:59:17.913894Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920578",
+            "price": "87460.02",
+            "size": "0.00130004",
+            "time": "2025-12-28T20:59:17.848159Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:19.459887604Z",
+    "sequence_num": 517,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920580",
+            "price": "87460.01",
+            "size": "0.00776633",
+            "time": "2025-12-28T20:59:19.388137Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:19.55787915Z",
+    "sequence_num": 520,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920581",
+            "price": "87460.01",
+            "size": "0.00000022",
+            "time": "2025-12-28T20:59:19.482877Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:20.158847882Z",
+    "sequence_num": 531,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920582",
+            "price": "87460.02",
+            "size": "0.00012714",
+            "time": "2025-12-28T20:59:20.127326Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:20.359564792Z",
+    "sequence_num": 536,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920583",
+            "price": "87460.01",
+            "size": "0.00011028",
+            "time": "2025-12-28T20:59:20.255905Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:20.558574204Z",
+    "sequence_num": 538,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920584",
+            "price": "87460.02",
+            "size": "0.00107",
+            "time": "2025-12-28T20:59:20.508714Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:20.758822957Z",
+    "sequence_num": 548,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920585",
+            "price": "87460.01",
+            "size": "0.00577407",
+            "time": "2025-12-28T20:59:20.737675Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:20.95880727Z",
+    "sequence_num": 555,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920586",
+            "price": "87460.02",
+            "size": "0.00054212",
+            "time": "2025-12-28T20:59:20.844428Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:21.358276288Z",
+    "sequence_num": 564,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920587",
+            "price": "87460.02",
+            "size": "0.00002252",
+            "time": "2025-12-28T20:59:21.269815Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:21.560220016Z",
+    "sequence_num": 570,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920588",
+            "price": "87460.02",
+            "size": "0.00042301",
+            "time": "2025-12-28T20:59:21.503772Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:21.959625171Z",
+    "sequence_num": 579,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920589",
+            "price": "87460.02",
+            "size": "0.00020109",
+            "time": "2025-12-28T20:59:21.872772Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:22.063162256Z",
+    "sequence_num": 581,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920590",
+            "price": "87460.01",
+            "size": "0.00000022",
+            "time": "2025-12-28T20:59:21.989989Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:23.258792572Z",
+    "sequence_num": 601,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920591",
+            "price": "87460.02",
+            "size": "0.00028309",
+            "time": "2025-12-28T20:59:23.21519Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:23.659357026Z",
+    "sequence_num": 612,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920592",
+            "price": "87460.01",
+            "size": "0.00003559",
+            "time": "2025-12-28T20:59:23.600713Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:24.259146588Z",
+    "sequence_num": 626,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920593",
+            "price": "87460.02",
+            "size": "0.01111118",
+            "time": "2025-12-28T20:59:24.14179Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:24.459965504Z",
+    "sequence_num": 632,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920594",
+            "price": "87460.02",
+            "size": "0.0000112",
+            "time": "2025-12-28T20:59:24.420599Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:24.858122992Z",
+    "sequence_num": 641,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920595",
+            "price": "87460.01",
+            "size": "0.00000022",
+            "time": "2025-12-28T20:59:24.82011Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:25.658079395Z",
+    "sequence_num": 660,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920596",
+            "price": "87460.01",
+            "size": "0.00002662",
+            "time": "2025-12-28T20:59:25.582699Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:26.561679325Z",
+    "sequence_num": 676,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920639",
+            "price": "87460.01",
+            "size": "0.05715051",
+            "time": "2025-12-28T20:59:26.475591Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920638",
+            "price": "87442.93",
+            "size": "0.00001119",
+            "time": "2025-12-28T20:59:26.470755Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920637",
+            "price": "87442.93",
+            "size": "0.00001125",
+            "time": "2025-12-28T20:59:26.470755Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920636",
+            "price": "87442.93",
+            "size": "0.00001119",
+            "time": "2025-12-28T20:59:26.470755Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920635",
+            "price": "87444.48",
+            "size": "0.000013",
+            "time": "2025-12-28T20:59:26.470755Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920634",
+            "price": "87445.96",
+            "size": "0.1237",
+            "time": "2025-12-28T20:59:26.470755Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920633",
+            "price": "87447.74",
+            "size": "0.0228708",
+            "time": "2025-12-28T20:59:26.470755Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920632",
+            "price": "87447.96",
+            "size": "0.00914",
+            "time": "2025-12-28T20:59:26.470755Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920631",
+            "price": "87448.73",
+            "size": "0.01111659",
+            "time": "2025-12-28T20:59:26.470755Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920630",
+            "price": "87448.78",
+            "size": "0.01335797",
+            "time": "2025-12-28T20:59:26.470755Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920629",
+            "price": "87448.85",
+            "size": "0.01433578",
+            "time": "2025-12-28T20:59:26.470755Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920628",
+            "price": "87448.95",
+            "size": "0.01022403",
+            "time": "2025-12-28T20:59:26.470755Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920627",
+            "price": "87448.96",
+            "size": "0.02208933",
+            "time": "2025-12-28T20:59:26.470755Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920626",
+            "price": "87449.6",
+            "size": "0.000013",
+            "time": "2025-12-28T20:59:26.470755Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920625",
+            "price": "87452.49",
+            "size": "0.00916601",
+            "time": "2025-12-28T20:59:26.470632Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920624",
+            "price": "87451.56",
+            "size": "0.08569283",
+            "time": "2025-12-28T20:59:26.469835Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920623",
+            "price": "87452.44",
+            "size": "0.11247521",
+            "time": "2025-12-28T20:59:26.469835Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920622",
+            "price": "87452.98",
+            "size": "0.0290182",
+            "time": "2025-12-28T20:59:26.469835Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920621",
+            "price": "87452.98",
+            "size": "0.00001119",
+            "time": "2025-12-28T20:59:26.468648Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920620",
+            "price": "87452.98",
+            "size": "0.0000112",
+            "time": "2025-12-28T20:59:26.468648Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920619",
+            "price": "87453.91",
+            "size": "0.20884829",
+            "time": "2025-12-28T20:59:26.468648Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920618",
+            "price": "87454.3",
+            "size": "0.02904059",
+            "time": "2025-12-28T20:59:26.468648Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920617",
+            "price": "87454.72",
+            "size": "0.000013",
+            "time": "2025-12-28T20:59:26.468648Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920616",
+            "price": "87455.09",
+            "size": "0.03428506",
+            "time": "2025-12-28T20:59:26.468648Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920615",
+            "price": "87456.17",
+            "size": "0.01615286",
+            "time": "2025-12-28T20:59:26.468648Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920614",
+            "price": "87458.25",
+            "size": "0.06908738",
+            "time": "2025-12-28T20:59:26.468648Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920613",
+            "price": "87458.42",
+            "size": "0.00914",
+            "time": "2025-12-28T20:59:26.468648Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920612",
+            "price": "87459.84",
+            "size": "0.000013",
+            "time": "2025-12-28T20:59:26.468273Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920611",
+            "price": "87460",
+            "size": "0.06862624",
+            "time": "2025-12-28T20:59:26.468273Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920610",
+            "price": "87460",
+            "size": "0.00000331",
+            "time": "2025-12-28T20:59:26.468273Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920609",
+            "price": "87460",
+            "size": "0.000375",
+            "time": "2025-12-28T20:59:26.468273Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920608",
+            "price": "87460",
+            "size": "0.00055273",
+            "time": "2025-12-28T20:59:26.468273Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920607",
+            "price": "87460.01",
+            "size": "0.05715051",
+            "time": "2025-12-28T20:59:26.468273Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920606",
+            "price": "87460.01",
+            "size": "0.00002265",
+            "time": "2025-12-28T20:59:26.468273Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920605",
+            "price": "87460.01",
+            "size": "0.00002927",
+            "time": "2025-12-28T20:59:26.468273Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920604",
+            "price": "87460.01",
+            "size": "0.00343012",
+            "time": "2025-12-28T20:59:26.468273Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920603",
+            "price": "87460.01",
+            "size": "0.00571689",
+            "time": "2025-12-28T20:59:26.468273Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920602",
+            "price": "87460.01",
+            "size": "0.00006608",
+            "time": "2025-12-28T20:59:26.468273Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920601",
+            "price": "87460.01",
+            "size": "0.02001502",
+            "time": "2025-12-28T20:59:26.468273Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920600",
+            "price": "87460.01",
+            "size": "0.02264094",
+            "time": "2025-12-28T20:59:26.468273Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920599",
+            "price": "87460.01",
+            "size": "0.0267716",
+            "time": "2025-12-28T20:59:26.468273Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920598",
+            "price": "87460.01",
+            "size": "0.03207362",
+            "time": "2025-12-28T20:59:26.468273Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920597",
+            "price": "87460.01",
+            "size": "0.00385921",
+            "time": "2025-12-28T20:59:26.468273Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:27.258407067Z",
+    "sequence_num": 696,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920641",
+            "price": "87443.91",
+            "size": "0.00000022",
+            "time": "2025-12-28T20:59:27.200354Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920640",
+            "price": "87443.92",
+            "size": "0.0006",
+            "time": "2025-12-28T20:59:27.188967Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:27.359351288Z",
+    "sequence_num": 699,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920644",
+            "price": "87443.92",
+            "size": "0.01427157",
+            "time": "2025-12-28T20:59:27.288515Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920643",
+            "price": "87443.92",
+            "size": "0.00114295",
+            "time": "2025-12-28T20:59:27.288515Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920642",
+            "price": "87443.92",
+            "size": "0.0222718",
+            "time": "2025-12-28T20:59:27.288515Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:29.260728284Z",
+    "sequence_num": 744,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920648",
+            "price": "87443.91",
+            "size": "0.00475866",
+            "time": "2025-12-28T20:59:29.216074Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920647",
+            "price": "87443.91",
+            "size": "0.00006621",
+            "time": "2025-12-28T20:59:29.216074Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920646",
+            "price": "87443.91",
+            "size": "0.00002306",
+            "time": "2025-12-28T20:59:29.216074Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920645",
+            "price": "87443.92",
+            "size": "0.0028739",
+            "time": "2025-12-28T20:59:29.212034Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:29.559420526Z",
+    "sequence_num": 751,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920649",
+            "price": "87443.91",
+            "size": "0.00000022",
+            "time": "2025-12-28T20:59:29.508476Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:29.658684639Z",
+    "sequence_num": 755,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920650",
+            "price": "87443.92",
+            "size": "0.0000566",
+            "time": "2025-12-28T20:59:29.616507Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:31.159712497Z",
+    "sequence_num": 784,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920652",
+            "price": "87443.92",
+            "size": "0.00292888",
+            "time": "2025-12-28T20:59:31.019441Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920651",
+            "price": "87443.92",
+            "size": "0.00278745",
+            "time": "2025-12-28T20:59:31.019441Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:31.559546972Z",
+    "sequence_num": 796,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920653",
+            "price": "87443.92",
+            "size": "0.00033965",
+            "time": "2025-12-28T20:59:31.487901Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:31.860168076Z",
+    "sequence_num": 804,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920654",
+            "price": "87443.91",
+            "size": "0.00000022",
+            "time": "2025-12-28T20:59:31.788908Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:32.158506443Z",
+    "sequence_num": 811,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920655",
+            "price": "87443.91",
+            "size": "0.00000781",
+            "time": "2025-12-28T20:59:32.098242Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:32.357965538Z",
+    "sequence_num": 816,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920656",
+            "price": "87443.92",
+            "size": "0.001",
+            "time": "2025-12-28T20:59:32.281698Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:32.459228885Z",
+    "sequence_num": 820,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920657",
+            "price": "87443.92",
+            "size": "0.00166698",
+            "time": "2025-12-28T20:59:32.402756Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:32.558407589Z",
+    "sequence_num": 823,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920658",
+            "price": "87443.92",
+            "size": "0.00542247",
+            "time": "2025-12-28T20:59:32.498006Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:32.659398946Z",
+    "sequence_num": 827,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920659",
+            "price": "87443.92",
+            "size": "0.00005661",
+            "time": "2025-12-28T20:59:32.60016Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:33.759715893Z",
+    "sequence_num": 854,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920660",
+            "price": "87443.92",
+            "size": "0.00222184",
+            "time": "2025-12-28T20:59:33.698876Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:33.959580724Z",
+    "sequence_num": 861,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920662",
+            "price": "87443.92",
+            "size": "0.0002",
+            "time": "2025-12-28T20:59:33.903659Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920661",
+            "price": "87443.92",
+            "size": "0.00027783",
+            "time": "2025-12-28T20:59:33.880326Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:34.162529372Z",
+    "sequence_num": 865,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920677",
+            "price": "87451.79",
+            "size": "0.00007445",
+            "time": "2025-12-28T20:59:34.100839Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920676",
+            "price": "87445.56",
+            "size": "0.00114276",
+            "time": "2025-12-28T20:59:34.049487Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920675",
+            "price": "87444.48",
+            "size": "0.00914",
+            "time": "2025-12-28T20:59:34.049325Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920674",
+            "price": "87443.94",
+            "size": "0.05",
+            "time": "2025-12-28T20:59:34.049325Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920673",
+            "price": "87443.92",
+            "size": "0.008146",
+            "time": "2025-12-28T20:59:34.049325Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920672",
+            "price": "87443.92",
+            "size": "0.00034",
+            "time": "2025-12-28T20:59:34.049325Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920671",
+            "price": "87443.92",
+            "size": "0.002928",
+            "time": "2025-12-28T20:59:34.049325Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920670",
+            "price": "87443.92",
+            "size": "0.021906",
+            "time": "2025-12-28T20:59:34.049325Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920669",
+            "price": "87443.92",
+            "size": "0.00571795",
+            "time": "2025-12-28T20:59:34.049325Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920668",
+            "price": "87443.92",
+            "size": "0.00343077",
+            "time": "2025-12-28T20:59:34.049325Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920667",
+            "price": "87443.92",
+            "size": "0.00296597",
+            "time": "2025-12-28T20:59:34.049325Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920666",
+            "price": "87443.91",
+            "size": "0.00000022",
+            "time": "2025-12-28T20:59:34.045028Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920665",
+            "price": "87443.92",
+            "size": "0.03212726",
+            "time": "2025-12-28T20:59:34.04479Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920664",
+            "price": "87443.92",
+            "size": "0.00056608",
+            "time": "2025-12-28T20:59:34.021129Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920663",
+            "price": "87443.92",
+            "size": "0.00022643",
+            "time": "2025-12-28T20:59:34.008365Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:34.259183011Z",
+    "sequence_num": 868,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920679",
+            "price": "87451.8",
+            "size": "0.00186692",
+            "time": "2025-12-28T20:59:34.207487Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920678",
+            "price": "87451.8",
+            "size": "0.00011435",
+            "time": "2025-12-28T20:59:34.207487Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:34.360083838Z",
+    "sequence_num": 871,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920681",
+            "price": "87451.79",
+            "size": "0.00003723",
+            "time": "2025-12-28T20:59:34.313074Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920680",
+            "price": "87451.8",
+            "size": "0.00000148",
+            "time": "2025-12-28T20:59:34.289289Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:34.65873898Z",
+    "sequence_num": 881,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920682",
+            "price": "87451.8",
+            "size": "0.00062268",
+            "time": "2025-12-28T20:59:34.564119Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:34.859032209Z",
+    "sequence_num": 887,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920683",
+            "price": "87451.79",
+            "size": "0.00003723",
+            "time": "2025-12-28T20:59:34.802433Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:35.160097484Z",
+    "sequence_num": 894,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920684",
+            "price": "87451.8",
+            "size": "0.00027115",
+            "time": "2025-12-28T20:59:35.053494Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:35.258242732Z",
+    "sequence_num": 896,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920685",
+            "price": "87451.8",
+            "size": "0.00038901",
+            "time": "2025-12-28T20:59:35.176538Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:35.459875289Z",
+    "sequence_num": 903,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920687",
+            "price": "87451.8",
+            "size": "0.00194343",
+            "time": "2025-12-28T20:59:35.416059Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920686",
+            "price": "87451.8",
+            "size": "0.00027922",
+            "time": "2025-12-28T20:59:35.416059Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:35.658555199Z",
+    "sequence_num": 908,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920688",
+            "price": "87451.8",
+            "size": "0.00222265",
+            "time": "2025-12-28T20:59:35.568202Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:36.158402709Z",
+    "sequence_num": 918,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920690",
+            "price": "87451.8",
+            "size": "0.00055566",
+            "time": "2025-12-28T20:59:36.12762Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920689",
+            "price": "87451.79",
+            "size": "0.00296703",
+            "time": "2025-12-28T20:59:36.127159Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:36.558204286Z",
+    "sequence_num": 927,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920691",
+            "price": "87451.79",
+            "size": "0.00000022",
+            "time": "2025-12-28T20:59:36.460732Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:36.659837735Z",
+    "sequence_num": 931,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920694",
+            "price": "87451.8",
+            "size": "0.01950188",
+            "time": "2025-12-28T20:59:36.593398Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920693",
+            "price": "87451.8",
+            "size": "0.0066175",
+            "time": "2025-12-28T20:59:36.593398Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920692",
+            "price": "87451.8",
+            "size": "0.03866076",
+            "time": "2025-12-28T20:59:36.592327Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:37.260274596Z",
+    "sequence_num": 946,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920695",
+            "price": "87451.8",
+            "size": "0.00001698",
+            "time": "2025-12-28T20:59:37.185829Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:37.35952192Z",
+    "sequence_num": 949,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920696",
+            "price": "87451.8",
+            "size": "0.00027783",
+            "time": "2025-12-28T20:59:37.298865Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:37.86058854Z",
+    "sequence_num": 960,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920698",
+            "price": "87451.8",
+            "size": "0.00113215",
+            "time": "2025-12-28T20:59:37.796814Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920697",
+            "price": "87451.8",
+            "size": "0.00056608",
+            "time": "2025-12-28T20:59:37.783589Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:37.958625289Z",
+    "sequence_num": 964,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920699",
+            "price": "87451.8",
+            "size": "0.00113215",
+            "time": "2025-12-28T20:59:37.907736Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:38.059115628Z",
+    "sequence_num": 967,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920700",
+            "price": "87451.8",
+            "size": "0.00011322",
+            "time": "2025-12-28T20:59:37.979786Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:38.559791048Z",
+    "sequence_num": 979,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920701",
+            "price": "87451.8",
+            "size": "0.00111132",
+            "time": "2025-12-28T20:59:38.435328Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:38.858195352Z",
+    "sequence_num": 986,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920702",
+            "price": "87451.8",
+            "size": "0.00055566",
+            "time": "2025-12-28T20:59:38.800025Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:38.959439172Z",
+    "sequence_num": 989,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920703",
+            "price": "87451.8",
+            "size": "0.00011039",
+            "time": "2025-12-28T20:59:38.859152Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:39.259611131Z",
+    "sequence_num": 997,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920704",
+            "price": "87451.79",
+            "size": "0.00000022",
+            "time": "2025-12-28T20:59:39.145568Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:39.360123549Z",
+    "sequence_num": 1000,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920705",
+            "price": "87451.8",
+            "size": "0.0000112",
+            "time": "2025-12-28T20:59:39.258748Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:41.858635027Z",
+    "sequence_num": 1042,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920706",
+            "price": "87451.79",
+            "size": "0.00000022",
+            "time": "2025-12-28T20:59:41.796672Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:43.858736974Z",
+    "sequence_num": 1077,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920707",
+            "price": "87451.8",
+            "size": "0.0001068",
+            "time": "2025-12-28T20:59:43.781619Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:44.558687038Z",
+    "sequence_num": 1093,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920708",
+            "price": "87451.8",
+            "size": "0.00144257",
+            "time": "2025-12-28T20:59:44.501344Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:44.859643439Z",
+    "sequence_num": 1098,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920709",
+            "price": "87451.79",
+            "size": "0.00000022",
+            "time": "2025-12-28T20:59:44.816319Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:45.159669306Z",
+    "sequence_num": 1105,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920710",
+            "price": "87451.8",
+            "size": "0.00022224",
+            "time": "2025-12-28T20:59:45.070797Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:47.159669764Z",
+    "sequence_num": 1141,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920711",
+            "price": "87451.79",
+            "size": "0.00000022",
+            "time": "2025-12-28T20:59:47.042452Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:47.3581768Z",
+    "sequence_num": 1147,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920728",
+            "price": "87453.27",
+            "size": "0.00114266",
+            "time": "2025-12-28T20:59:47.312012Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920727",
+            "price": "87453.23",
+            "size": "0.00881287",
+            "time": "2025-12-28T20:59:47.312012Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920726",
+            "price": "87453.23",
+            "size": "0.00032713",
+            "time": "2025-12-28T20:59:47.311935Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920725",
+            "price": "87453.11",
+            "size": "0.00984886",
+            "time": "2025-12-28T20:59:47.310163Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920724",
+            "price": "87453.11",
+            "size": "0.00387278",
+            "time": "2025-12-28T20:59:47.308716Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920723",
+            "price": "87453.1",
+            "size": "0.00118906",
+            "time": "2025-12-28T20:59:47.308128Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920722",
+            "price": "87453.1",
+            "size": "0.01028266",
+            "time": "2025-12-28T20:59:47.308111Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920721",
+            "price": "87453.1",
+            "size": "0.03209169",
+            "time": "2025-12-28T20:59:47.307915Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920720",
+            "price": "87451.82",
+            "size": "0.00619751",
+            "time": "2025-12-28T20:59:47.307868Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920719",
+            "price": "87451.82",
+            "size": "0.04380249",
+            "time": "2025-12-28T20:59:47.3078Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920718",
+            "price": "87451.8",
+            "size": "0.00343046",
+            "time": "2025-12-28T20:59:47.3078Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920717",
+            "price": "87451.8",
+            "size": "0.03012038",
+            "time": "2025-12-28T20:59:47.3078Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920716",
+            "price": "87451.8",
+            "size": "0.01018013",
+            "time": "2025-12-28T20:59:47.305219Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920715",
+            "price": "87451.8",
+            "size": "0.00497849",
+            "time": "2025-12-28T20:59:47.303223Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920714",
+            "price": "87451.8",
+            "size": "0.000555",
+            "time": "2025-12-28T20:59:47.303223Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920713",
+            "price": "87451.8",
+            "size": "0.004166",
+            "time": "2025-12-28T20:59:47.303223Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920712",
+            "price": "87451.8",
+            "size": "0.00028953",
+            "time": "2025-12-28T20:59:47.303223Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:47.858303458Z",
+    "sequence_num": 1162,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920729",
+            "price": "87457.98",
+            "size": "0.00003723",
+            "time": "2025-12-28T20:59:47.816296Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:48.359534315Z",
+    "sequence_num": 1176,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920731",
+            "price": "87457.98",
+            "size": "0.0000373",
+            "time": "2025-12-28T20:59:48.31082Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920730",
+            "price": "87457.99",
+            "size": "0.00029286",
+            "time": "2025-12-28T20:59:48.308412Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:48.459142599Z",
+    "sequence_num": 1180,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920732",
+            "price": "87457.99",
+            "size": "0.00016269",
+            "time": "2025-12-28T20:59:48.368379Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:48.858435938Z",
+    "sequence_num": 1189,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920733",
+            "price": "87457.98",
+            "size": "0.00003723",
+            "time": "2025-12-28T20:59:48.823801Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:49.659917068Z",
+    "sequence_num": 1208,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920734",
+            "price": "87457.98",
+            "size": "0.00003723",
+            "time": "2025-12-28T20:59:49.606898Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:49.859166291Z",
+    "sequence_num": 1214,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920735",
+            "price": "87457.98",
+            "size": "0.00003723",
+            "time": "2025-12-28T20:59:49.809944Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:50.158845768Z",
+    "sequence_num": 1222,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920737",
+            "price": "87457.99",
+            "size": "0.00004971",
+            "time": "2025-12-28T20:59:50.123344Z",
+            "side": "SELL"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920736",
+            "price": "87457.98",
+            "size": "0.00000022",
+            "time": "2025-12-28T20:59:50.041188Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:51.359810342Z",
+    "sequence_num": 1252,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920738",
+            "price": "87457.98",
+            "size": "0.00011168",
+            "time": "2025-12-28T20:59:51.334527Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:51.658708236Z",
+    "sequence_num": 1260,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920739",
+            "price": "87457.99",
+            "size": "0.00115469",
+            "time": "2025-12-28T20:59:51.544432Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:51.759784672Z",
+    "sequence_num": 1264,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920740",
+            "price": "87457.99",
+            "size": "0.00056599",
+            "time": "2025-12-28T20:59:51.647512Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:51.860116749Z",
+    "sequence_num": 1267,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920741",
+            "price": "87457.98",
+            "size": "0.00003723",
+            "time": "2025-12-28T20:59:51.812516Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:52.160185526Z",
+    "sequence_num": 1276,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920744",
+            "price": "87457.98",
+            "size": "0.00181019",
+            "time": "2025-12-28T20:59:52.098131Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920743",
+            "price": "87457.98",
+            "size": "0.0000367",
+            "time": "2025-12-28T20:59:52.098131Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920742",
+            "price": "87457.98",
+            "size": "0.05700236",
+            "time": "2025-12-28T20:59:52.098131Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:52.358907722Z",
+    "sequence_num": 1283,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920745",
+            "price": "87457.98",
+            "size": "0.00003723",
+            "time": "2025-12-28T20:59:52.305869Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:52.558805263Z",
+    "sequence_num": 1288,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920746",
+            "price": "87457.98",
+            "size": "0.00000022",
+            "time": "2025-12-28T20:59:52.464076Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:52.85954838Z",
+    "sequence_num": 1296,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920747",
+            "price": "87457.98",
+            "size": "0.00003723",
+            "time": "2025-12-28T20:59:52.810272Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:52.958441128Z",
+    "sequence_num": 1300,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920748",
+            "price": "87457.99",
+            "size": "0.00018203",
+            "time": "2025-12-28T20:59:52.941312Z",
+            "side": "SELL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:53.859569061Z",
+    "sequence_num": 1324,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920750",
+            "price": "87457.98",
+            "size": "0.00003723",
+            "time": "2025-12-28T20:59:53.837125Z",
+            "side": "BUY"
+          },
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920749",
+            "price": "87457.98",
+            "size": "0.00003723",
+            "time": "2025-12-28T20:59:53.63857Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:53.958282577Z",
+    "sequence_num": 1329,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920751",
+            "price": "87457.98",
+            "size": "0.00011182",
+            "time": "2025-12-28T20:59:53.931138Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:54.059243824Z",
+    "sequence_num": 1331,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920752",
+            "price": "87457.98",
+            "size": "0.00102935",
+            "time": "2025-12-28T20:59:54.000165Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "market_trades",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:54.359660168Z",
+    "sequence_num": 1340,
+    "events": [
+      {
+        "type": "update",
+        "trades": [
+          {
+            "product_id": "BTC-USD",
+            "trade_id": "927920753",
+            "price": "87457.98",
+            "size": "0.00003723",
+            "time": "2025-12-28T20:59:54.311404Z",
+            "side": "BUY"
+          }
+        ]
+      }
+    ]
+  }
+]

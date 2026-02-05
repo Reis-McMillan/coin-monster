@@ -1,0 +1,6078 @@
+[
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:58:55.197682435Z",
+    "sequence_num": 14,
+    "events": [
+      {
+        "type": "snapshot",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.7",
+            "volume_24_h": "1802.52784221",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03225108947426",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.00625058",
+            "best_ask_quantity": "0.24746266"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:58:55.665266411Z",
+    "sequence_num": 25,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.7",
+            "volume_24_h": "1802.52784221",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03225108947426",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.00625036",
+            "best_ask_quantity": "0.24746266"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:58:55.866895622Z",
+    "sequence_num": 29,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.69",
+            "volume_24_h": "1802.52784221",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03226251792553",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.00625036",
+            "best_ask_quantity": "0.24746266"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:58:56.168441267Z",
+    "sequence_num": 32,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.69",
+            "volume_24_h": "1802.52784221",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03226251792553",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.00630992",
+            "best_ask_quantity": "0.24746266"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:58:56.420758222Z",
+    "sequence_num": 37,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.69",
+            "volume_24_h": "1802.52784221",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03226251792553",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.00630966",
+            "best_ask_quantity": "0.12376266"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:58:57.168646317Z",
+    "sequence_num": 46,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.69",
+            "volume_24_h": "1802.52784221",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03226251792553",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.00630966",
+            "best_ask_quantity": "0.12330266"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:58:57.371198984Z",
+    "sequence_num": 50,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.7",
+            "volume_24_h": "1802.52784221",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03225108947426",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.00630966",
+            "best_ask_quantity": "0.12330266"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:58:57.419689621Z",
+    "sequence_num": 52,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.7",
+            "volume_24_h": "1802.52784221",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03225108947426",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.00630966",
+            "best_ask_quantity": "0.12376266"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:58:57.919455238Z",
+    "sequence_num": 57,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.7",
+            "volume_24_h": "1802.52784221",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03225108947426",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.00630944",
+            "best_ask_quantity": "0.12376266"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:58:58.36989736Z",
+    "sequence_num": 67,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.69",
+            "volume_24_h": "1802.52784221",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03226251792553",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.00630944",
+            "best_ask_quantity": "0.12376266"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:58:58.420248859Z",
+    "sequence_num": 69,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.69",
+            "volume_24_h": "1802.52784221",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03226251792553",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.00618111",
+            "best_ask_quantity": "0.11805"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:58:58.669866247Z",
+    "sequence_num": 73,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.69",
+            "volume_24_h": "1802.52784221",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03226251792553",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.00618036",
+            "best_ask_quantity": "0.11805"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:58:58.920725158Z",
+    "sequence_num": 79,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.69",
+            "volume_24_h": "1802.52784221",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03226251792553",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.00617971",
+            "best_ask_quantity": "0.11805"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:58:59.669121878Z",
+    "sequence_num": 89,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.69",
+            "volume_24_h": "1802.52784221",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03226251792553",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.03831652",
+            "best_ask_quantity": "0.11805"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:00.170595367Z",
+    "sequence_num": 97,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.69",
+            "volume_24_h": "1802.52784221",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03226251792553",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.06013608",
+            "best_ask_quantity": "0.06088928"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:00.420761671Z",
+    "sequence_num": 106,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.69",
+            "volume_24_h": "1802.52784221",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03226251792553",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.07838608",
+            "best_ask_quantity": "0.05954472"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:00.613750879Z",
+    "sequence_num": 111,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.7",
+            "volume_24_h": "1802.52784221",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03225108947426",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.07838608",
+            "best_ask_quantity": "0.05954472"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:00.668365126Z",
+    "sequence_num": 113,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.7",
+            "volume_24_h": "1802.52784221",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03225108947426",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.09726704",
+            "best_ask_quantity": "0.06088972"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:01.168611603Z",
+    "sequence_num": 124,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.7",
+            "volume_24_h": "1802.52784221",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03225108947426",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.09692408",
+            "best_ask_quantity": "0.06136092"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:01.368250697Z",
+    "sequence_num": 130,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.69",
+            "volume_24_h": "1802.52784221",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03226251792553",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.09692408",
+            "best_ask_quantity": "0.06136092"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:02.416404307Z",
+    "sequence_num": 146,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.69",
+            "volume_24_h": "1802.52784221",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03226251792553",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.09692644",
+            "best_ask_quantity": "0.06136092"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:02.669190408Z",
+    "sequence_num": 152,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.69",
+            "volume_24_h": "1802.52784221",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03226251792553",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.09692622",
+            "best_ask_quantity": "0.06136092"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:03.168934434Z",
+    "sequence_num": 160,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.69",
+            "volume_24_h": "1802.52784221",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03226251792553",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.09692622",
+            "best_ask_quantity": "0.06023092"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:03.419665424Z",
+    "sequence_num": 167,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.69",
+            "volume_24_h": "1802.52784221",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03226251792553",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.09692622",
+            "best_ask_quantity": "0.06136092"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:03.630888445Z",
+    "sequence_num": 169,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.7",
+            "volume_24_h": "1802.52784221",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03225108947426",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.09692622",
+            "best_ask_quantity": "0.06136092"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:03.863878703Z",
+    "sequence_num": 174,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.7",
+            "volume_24_h": "1801.44768549",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03225108947426",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.09692622",
+            "best_ask_quantity": "0.06136092"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:03.919061755Z",
+    "sequence_num": 175,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.7",
+            "volume_24_h": "1801.44768549",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03225108947426",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.09700589",
+            "best_ask_quantity": "0.06339289"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:04.118728132Z",
+    "sequence_num": 177,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.69",
+            "volume_24_h": "1801.44768549",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03226251792553",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.09700589",
+            "best_ask_quantity": "0.06339289"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:04.668211964Z",
+    "sequence_num": 188,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.69",
+            "volume_24_h": "1801.44768549",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03226251792553",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.07870752",
+            "best_ask_quantity": "0.06339289"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:04.919783898Z",
+    "sequence_num": 192,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.69",
+            "volume_24_h": "1801.44768549",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03226251792553",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.0787073",
+            "best_ask_quantity": "0.06339289"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:05.668143463Z",
+    "sequence_num": 208,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.69",
+            "volume_24_h": "1801.44768549",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03226251792553",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.0787073",
+            "best_ask_quantity": "0.06308608"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:05.855296534Z",
+    "sequence_num": 213,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.7",
+            "volume_24_h": "1801.44768549",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03225108947426",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.0787073",
+            "best_ask_quantity": "0.06308608"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:05.919731685Z",
+    "sequence_num": 214,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.7",
+            "volume_24_h": "1801.44768549",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03225108947426",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.0787073",
+            "best_ask_quantity": "0.06339308"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:06.168052814Z",
+    "sequence_num": 218,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.7",
+            "volume_24_h": "1801.44768549",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03225108947426",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.0787073",
+            "best_ask_quantity": "0.0633795"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:06.420707672Z",
+    "sequence_num": 225,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.7",
+            "volume_24_h": "1801.44768549",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03225108947426",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.0787073",
+            "best_ask_quantity": "0.0633925"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:06.668548085Z",
+    "sequence_num": 231,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.7",
+            "volume_24_h": "1801.44768549",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03225108947426",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.07874029",
+            "best_ask_quantity": "0.0633925"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:06.916595613Z",
+    "sequence_num": 235,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.7",
+            "volume_24_h": "1801.44768549",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03225108947426",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.07874029",
+            "best_ask_quantity": "0.06330667"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:07.167956354Z",
+    "sequence_num": 240,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.7",
+            "volume_24_h": "1801.44768549",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03225108947426",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.07874029",
+            "best_ask_quantity": "0.06339267"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:07.669708522Z",
+    "sequence_num": 252,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.7",
+            "volume_24_h": "1801.44768549",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03225108947426",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.07874007",
+            "best_ask_quantity": "0.06339267"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:07.870435416Z",
+    "sequence_num": 256,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.69",
+            "volume_24_h": "1801.44768549",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03226251792553",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.07874007",
+            "best_ask_quantity": "0.06339267"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:08.668172614Z",
+    "sequence_num": 270,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.69",
+            "volume_24_h": "1801.44768549",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03226251792553",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.07873735",
+            "best_ask_quantity": "0.06339267"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:08.919179252Z",
+    "sequence_num": 273,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.69",
+            "volume_24_h": "1801.44768549",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03226251792553",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.07871449",
+            "best_ask_quantity": "0.06339267"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:09.168417163Z",
+    "sequence_num": 279,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.69",
+            "volume_24_h": "1801.44768549",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03226251792553",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.1358581",
+            "best_ask_quantity": "0.06339267"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:09.420965568Z",
+    "sequence_num": 287,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.69",
+            "volume_24_h": "1801.44768549",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03226251792553",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.15412669",
+            "best_ask_quantity": "0.06239831"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:09.618676285Z",
+    "sequence_num": 292,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.7",
+            "volume_24_h": "1801.44768549",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03225108947426",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.15412669",
+            "best_ask_quantity": "0.06239831"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:09.669210793Z",
+    "sequence_num": 294,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.7",
+            "volume_24_h": "1801.44768549",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03225108947426",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.15412669",
+            "best_ask_quantity": "0.06339331"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:09.920018593Z",
+    "sequence_num": 301,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.7",
+            "volume_24_h": "1801.44768549",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03225108947426",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.13016873",
+            "best_ask_quantity": "0.00681841"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:10.168442047Z",
+    "sequence_num": 309,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.7",
+            "volume_24_h": "1801.44768549",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03225108947426",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.1298771",
+            "best_ask_quantity": "0.00670421"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:10.363328862Z",
+    "sequence_num": 316,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.69",
+            "volume_24_h": "1801.44768549",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03226251792553",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.1298771",
+            "best_ask_quantity": "0.00670421"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:10.419474828Z",
+    "sequence_num": 318,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.69",
+            "volume_24_h": "1801.44768549",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03226251792553",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.1481271",
+            "best_ask_quantity": "0.00636468"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:10.609860461Z",
+    "sequence_num": 321,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.7",
+            "volume_24_h": "1801.44768549",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03225108947426",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.1481271",
+            "best_ask_quantity": "0.00636468"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:10.919321204Z",
+    "sequence_num": 326,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.7",
+            "volume_24_h": "1801.44768549",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03225108947426",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.14813097",
+            "best_ask_quantity": "0.00790243"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:11.168769844Z",
+    "sequence_num": 331,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.7",
+            "volume_24_h": "1801.44768549",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03225108947426",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.14813003",
+            "best_ask_quantity": "0.00790243"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:11.420794289Z",
+    "sequence_num": 337,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.7",
+            "volume_24_h": "1801.44768549",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03225108947426",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.1481299",
+            "best_ask_quantity": "0.00790243"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:11.668450861Z",
+    "sequence_num": 344,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.7",
+            "volume_24_h": "1801.44768549",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03225108947426",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.14975551",
+            "best_ask_quantity": "0.00677065"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:11.919746443Z",
+    "sequence_num": 349,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.7",
+            "volume_24_h": "1801.44768549",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03225108947426",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.1510642",
+            "best_ask_quantity": "0.00546196"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:12.168799725Z",
+    "sequence_num": 356,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.7",
+            "volume_24_h": "1801.44768549",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03225108947426",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.15106398",
+            "best_ask_quantity": "0.00546196"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:12.419263439Z",
+    "sequence_num": 363,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.7",
+            "volume_24_h": "1801.44768549",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03225108947426",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.11791764",
+            "best_ask_quantity": "0.00546196"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:12.618932324Z",
+    "sequence_num": 367,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.69",
+            "volume_24_h": "1801.44768549",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03226251792553",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.11791764",
+            "best_ask_quantity": "0.00546196"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:12.918941272Z",
+    "sequence_num": 370,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.69",
+            "volume_24_h": "1801.44768549",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03226251792553",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.11804659",
+            "best_ask_quantity": "0.00546196"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:13.168269832Z",
+    "sequence_num": 375,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.69",
+            "volume_24_h": "1801.44768549",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03226251792553",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.11803534",
+            "best_ask_quantity": "0.00546196"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:13.41968857Z",
+    "sequence_num": 382,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.69",
+            "volume_24_h": "1801.44768549",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03226251792553",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.12081513",
+            "best_ask_quantity": "0.00777367"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:13.612992476Z",
+    "sequence_num": 386,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.7",
+            "volume_24_h": "1801.44768549",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03225108947426",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.12081513",
+            "best_ask_quantity": "0.00777367"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:13.87758953Z",
+    "sequence_num": 394,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.7",
+            "volume_24_h": "1801.7309756",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03225108947426",
+            "best_bid": "87472.69",
+            "best_ask": "87472.7",
+            "best_bid_quantity": "0.12081513",
+            "best_ask_quantity": "0.00777367"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:13.923755186Z",
+    "sequence_num": 396,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87472.7",
+            "volume_24_h": "1801.7309756",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03225108947426",
+            "best_bid": "87460",
+            "best_ask": "87460.01",
+            "best_bid_quantity": "0.0266975",
+            "best_ask_quantity": "0.21198956"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:14.122614674Z",
+    "sequence_num": 401,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460",
+            "volume_24_h": "1801.7309756",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.0467652225828",
+            "best_bid": "87460",
+            "best_ask": "87460.01",
+            "best_bid_quantity": "0.0266975",
+            "best_ask_quantity": "0.21198956"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:14.16966857Z",
+    "sequence_num": 403,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460",
+            "volume_24_h": "1801.7309756",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.0467652225828",
+            "best_bid": "87460",
+            "best_ask": "87460.01",
+            "best_bid_quantity": "0.15321728",
+            "best_ask_quantity": "0.00114262"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:14.421259902Z",
+    "sequence_num": 411,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460",
+            "volume_24_h": "1801.7309756",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.0467652225828",
+            "best_bid": "87460",
+            "best_ask": "87460.01",
+            "best_bid_quantity": "0.22184352",
+            "best_ask_quantity": "0.00085967"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:14.618254455Z",
+    "sequence_num": 417,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.01",
+            "volume_24_h": "1801.7309756",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04675379413154",
+            "best_bid": "87460",
+            "best_ask": "87460.01",
+            "best_bid_quantity": "0.22184352",
+            "best_ask_quantity": "0.00085967"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:14.669025125Z",
+    "sequence_num": 420,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.01",
+            "volume_24_h": "1801.7309756",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04675379413154",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.18009722",
+            "best_ask_quantity": "0.04249995"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:14.921347617Z",
+    "sequence_num": 427,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.01",
+            "volume_24_h": "1801.7309756",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04675379413154",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.20011282",
+            "best_ask_quantity": "0.05114185"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:14.941395703Z",
+    "sequence_num": 428,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.02",
+            "volume_24_h": "1801.7309756",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04674236568027",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.20011282",
+            "best_ask_quantity": "0.05114185"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:15.218105277Z",
+    "sequence_num": 432,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.01",
+            "volume_24_h": "1801.7309756",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04675379413154",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.20011282",
+            "best_ask_quantity": "0.05114185"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:15.419437768Z",
+    "sequence_num": 438,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.01",
+            "volume_24_h": "1801.7309756",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04675379413154",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.1999951",
+            "best_ask_quantity": "0.05114185"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:16.92086352Z",
+    "sequence_num": 463,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.01",
+            "volume_24_h": "1801.7309756",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04675379413154",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.19998985",
+            "best_ask_quantity": "0.05114185"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:17.168540281Z",
+    "sequence_num": 469,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.01",
+            "volume_24_h": "1801.7309756",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04675379413154",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.19998963",
+            "best_ask_quantity": "0.05114185"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:17.41991787Z",
+    "sequence_num": 474,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.01",
+            "volume_24_h": "1801.7309756",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04675379413154",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.1999976",
+            "best_ask_quantity": "0.05114185"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:17.668308697Z",
+    "sequence_num": 479,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.01",
+            "volume_24_h": "1801.7309756",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04675379413154",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.1999969",
+            "best_ask_quantity": "0.05114185"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:17.92139221Z",
+    "sequence_num": 484,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.01",
+            "volume_24_h": "1801.7309756",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04675379413154",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.20006231",
+            "best_ask_quantity": "0.04984181"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:18.168458907Z",
+    "sequence_num": 489,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.01",
+            "volume_24_h": "1801.7309756",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04675379413154",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.17631251",
+            "best_ask_quantity": "0.04984181"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:18.42045277Z",
+    "sequence_num": 494,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.01",
+            "volume_24_h": "1801.7309756",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04675379413154",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.17630744",
+            "best_ask_quantity": "0.05114181"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:18.921049018Z",
+    "sequence_num": 502,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.01",
+            "volume_24_h": "1801.7309756",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04675379413154",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.1763141",
+            "best_ask_quantity": "0.05114181"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:19.116665339Z",
+    "sequence_num": 507,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87469",
+            "volume_24_h": "1801.7309756",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03647961644289",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.1763141",
+            "best_ask_quantity": "0.05114181"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:19.168627179Z",
+    "sequence_num": 509,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87469",
+            "volume_24_h": "1801.7309756",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03647961644289",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.17630967",
+            "best_ask_quantity": "0.05114181"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:19.420245133Z",
+    "sequence_num": 515,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87469",
+            "volume_24_h": "1801.7309756",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03647961644289",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.17631224",
+            "best_ask_quantity": "0.05114181"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:19.668896304Z",
+    "sequence_num": 522,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87469",
+            "volume_24_h": "1801.7309756",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.03647961644289",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.16854542",
+            "best_ask_quantity": "0.05114181"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:19.861789923Z",
+    "sequence_num": 526,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.01",
+            "volume_24_h": "1801.7309756",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04675379413154",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.16854542",
+            "best_ask_quantity": "0.05114181"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:20.170656567Z",
+    "sequence_num": 532,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.01",
+            "volume_24_h": "1801.7309756",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04675379413154",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.16854542",
+            "best_ask_quantity": "0.05101465"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:20.420015319Z",
+    "sequence_num": 537,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.01",
+            "volume_24_h": "1801.7309756",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04675379413154",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.16843478",
+            "best_ask_quantity": "0.05114165"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:20.667776817Z",
+    "sequence_num": 539,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.01",
+            "volume_24_h": "1801.7309756",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04675379413154",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.17415167",
+            "best_ask_quantity": "0.07293672"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:20.863166589Z",
+    "sequence_num": 551,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.02",
+            "volume_24_h": "1801.7309756",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04674236568027",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.17415167",
+            "best_ask_quantity": "0.07293672"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:20.919424019Z",
+    "sequence_num": 553,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.02",
+            "volume_24_h": "1801.7309756",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04674236568027",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.1683776",
+            "best_ask_quantity": "0.0734646"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:21.117525044Z",
+    "sequence_num": 558,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.01",
+            "volume_24_h": "1801.7309756",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04675379413154",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.1683776",
+            "best_ask_quantity": "0.0734646"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:21.168463009Z",
+    "sequence_num": 559,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.01",
+            "volume_24_h": "1801.7309756",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04675379413154",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.1683776",
+            "best_ask_quantity": "0.0740076"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:21.365107674Z",
+    "sequence_num": 565,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.02",
+            "volume_24_h": "1801.7309756",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04674236568027",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.1683776",
+            "best_ask_quantity": "0.0740076"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:21.420108037Z",
+    "sequence_num": 567,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.02",
+            "volume_24_h": "1801.7309756",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04674236568027",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.1683776",
+            "best_ask_quantity": "0.07398508"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:21.668298689Z",
+    "sequence_num": 573,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.02",
+            "volume_24_h": "1801.7309756",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04674236568027",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.1683776",
+            "best_ask_quantity": "0.07358407"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:21.918795609Z",
+    "sequence_num": 577,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.02",
+            "volume_24_h": "1801.7309756",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04674236568027",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.1683776",
+            "best_ask_quantity": "0.07380598"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:22.168459914Z",
+    "sequence_num": 584,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.02",
+            "volume_24_h": "1801.7309756",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04674236568027",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.16837738",
+            "best_ask_quantity": "0.07400698"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:22.370908581Z",
+    "sequence_num": 590,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.01",
+            "volume_24_h": "1801.7309756",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04675379413154",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.16837738",
+            "best_ask_quantity": "0.07400698"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:23.420192965Z",
+    "sequence_num": 605,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.01",
+            "volume_24_h": "1801.7309756",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04675379413154",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.16837692",
+            "best_ask_quantity": "0.07372389"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:23.625464237Z",
+    "sequence_num": 610,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.02",
+            "volume_24_h": "1801.7309756",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04674236568027",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.16837692",
+            "best_ask_quantity": "0.07372389"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:23.668637182Z",
+    "sequence_num": 613,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.02",
+            "volume_24_h": "1801.7309756",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04674236568027",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.16834133",
+            "best_ask_quantity": "0.07400689"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:23.860330043Z",
+    "sequence_num": 617,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.02",
+            "volume_24_h": "1802.29743518",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04674236568027",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.16834133",
+            "best_ask_quantity": "0.07400689"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:23.91946739Z",
+    "sequence_num": 618,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.02",
+            "volume_24_h": "1802.29743518",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04674236568027",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.16833914",
+            "best_ask_quantity": "0.07400689"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:24.113378462Z",
+    "sequence_num": 621,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.01",
+            "volume_24_h": "1802.29743518",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04675379413154",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.16833914",
+            "best_ask_quantity": "0.07400689"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:24.168805527Z",
+    "sequence_num": 622,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.01",
+            "volume_24_h": "1802.29743518",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04675379413154",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.17176926",
+            "best_ask_quantity": "0.07400689"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:24.419352019Z",
+    "sequence_num": 630,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.01",
+            "volume_24_h": "1802.29743518",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04675379413154",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.17176926",
+            "best_ask_quantity": "0.07400671"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:24.612762908Z",
+    "sequence_num": 635,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.02",
+            "volume_24_h": "1802.29743518",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04674236568027",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.17176926",
+            "best_ask_quantity": "0.07400671"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:24.670681303Z",
+    "sequence_num": 636,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.02",
+            "volume_24_h": "1802.29743518",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04674236568027",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.17176926",
+            "best_ask_quantity": "0.07400751"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:24.920672295Z",
+    "sequence_num": 642,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.02",
+            "volume_24_h": "1802.29743518",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04674236568027",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.17179831",
+            "best_ask_quantity": "0.07400751"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:25.117482268Z",
+    "sequence_num": 647,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.01",
+            "volume_24_h": "1802.29743518",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04675379413154",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.17179831",
+            "best_ask_quantity": "0.07400751"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:25.169224165Z",
+    "sequence_num": 649,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.01",
+            "volume_24_h": "1802.29743518",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04675379413154",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.17180194",
+            "best_ask_quantity": "0.07400751"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:25.668354051Z",
+    "sequence_num": 661,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.01",
+            "volume_24_h": "1802.29743518",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04675379413154",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.17177532",
+            "best_ask_quantity": "0.07400751"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:25.919419731Z",
+    "sequence_num": 665,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.01",
+            "volume_24_h": "1802.29743518",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04675379413154",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.17177591",
+            "best_ask_quantity": "0.07400751"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:26.16812187Z",
+    "sequence_num": 669,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.01",
+            "volume_24_h": "1802.29743518",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04675379413154",
+            "best_bid": "87460.01",
+            "best_ask": "87460.02",
+            "best_bid_quantity": "0.36036764",
+            "best_ask_quantity": "0.07400748"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:26.671784312Z",
+    "sequence_num": 679,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.01",
+            "volume_24_h": "1802.29743518",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04675379413154",
+            "best_bid": "87441.31",
+            "best_ask": "87442",
+            "best_bid_quantity": "0.0268432",
+            "best_ask_quantity": "0.0128"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:26.926338245Z",
+    "sequence_num": 686,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.01",
+            "volume_24_h": "1802.29743518",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04675379413154",
+            "best_bid": "87441.77",
+            "best_ask": "87443.89",
+            "best_bid_quantity": "0.0267432",
+            "best_ask_quantity": "0.01099815"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:27.170372334Z",
+    "sequence_num": 692,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.01",
+            "volume_24_h": "1802.29743518",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04675379413154",
+            "best_bid": "87443.91",
+            "best_ask": "87443.92",
+            "best_bid_quantity": "0.00002823",
+            "best_ask_quantity": "0.05586199"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:27.420871325Z",
+    "sequence_num": 701,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87460.01",
+            "volume_24_h": "1802.29743518",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04675379413154",
+            "best_bid": "87443.91",
+            "best_ask": "87443.92",
+            "best_bid_quantity": "0.00002306",
+            "best_ask_quantity": "0.04615869"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:27.622944817Z",
+    "sequence_num": 706,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87443.92",
+            "volume_24_h": "1802.29743518",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.06514217221945",
+            "best_bid": "87443.91",
+            "best_ask": "87443.92",
+            "best_bid_quantity": "0.00002306",
+            "best_ask_quantity": "0.04615869"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:27.669098111Z",
+    "sequence_num": 708,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87443.92",
+            "volume_24_h": "1802.29743518",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.06514217221945",
+            "best_bid": "87443.91",
+            "best_ask": "87443.92",
+            "best_bid_quantity": "0.00580722",
+            "best_ask_quantity": "0.08544073"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:28.41915402Z",
+    "sequence_num": 725,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87443.92",
+            "volume_24_h": "1802.29743518",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.06514217221945",
+            "best_bid": "87443.91",
+            "best_ask": "87443.92",
+            "best_bid_quantity": "0.00580722",
+            "best_ask_quantity": "0.10831253"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:29.420051303Z",
+    "sequence_num": 748,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87443.92",
+            "volume_24_h": "1802.29743518",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.06514217221945",
+            "best_bid": "87443.91",
+            "best_ask": "87443.92",
+            "best_bid_quantity": "0.00104841",
+            "best_ask_quantity": "0.10732309"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:29.613513729Z",
+    "sequence_num": 753,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87443.91",
+            "volume_24_h": "1802.29743518",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.06515360067071",
+            "best_bid": "87443.91",
+            "best_ask": "87443.92",
+            "best_bid_quantity": "0.00104841",
+            "best_ask_quantity": "0.10732309"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:29.66857235Z",
+    "sequence_num": 756,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87443.91",
+            "volume_24_h": "1802.29743518",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.06515360067071",
+            "best_bid": "87443.91",
+            "best_ask": "87443.92",
+            "best_bid_quantity": "0.00104728",
+            "best_ask_quantity": "0.10726649"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:29.921139191Z",
+    "sequence_num": 761,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87443.91",
+            "volume_24_h": "1802.29743518",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.06515360067071",
+            "best_bid": "87443.91",
+            "best_ask": "87443.92",
+            "best_bid_quantity": "0.00104673",
+            "best_ask_quantity": "0.11069726"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:30.116749382Z",
+    "sequence_num": 765,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87443.92",
+            "volume_24_h": "1802.29743518",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.06514217221945",
+            "best_bid": "87443.91",
+            "best_ask": "87443.92",
+            "best_bid_quantity": "0.00104673",
+            "best_ask_quantity": "0.11069726"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:31.168634333Z",
+    "sequence_num": 785,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87443.92",
+            "volume_24_h": "1802.29743518",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.06514217221945",
+            "best_bid": "87443.91",
+            "best_ask": "87443.92",
+            "best_bid_quantity": "0.00104673",
+            "best_ask_quantity": "0.10785505"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:31.423167025Z",
+    "sequence_num": 792,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87443.92",
+            "volume_24_h": "1802.29743518",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.06514217221945",
+            "best_bid": "87443.91",
+            "best_ask": "87443.92",
+            "best_bid_quantity": "0.00104581",
+            "best_ask_quantity": "0.11078305"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:31.668197574Z",
+    "sequence_num": 799,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87443.92",
+            "volume_24_h": "1802.29743518",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.06514217221945",
+            "best_bid": "87443.91",
+            "best_ask": "87443.92",
+            "best_bid_quantity": "0.00104912",
+            "best_ask_quantity": "0.1104434"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:31.924279388Z",
+    "sequence_num": 806,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87443.92",
+            "volume_24_h": "1802.29743518",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.06514217221945",
+            "best_bid": "87443.91",
+            "best_ask": "87443.92",
+            "best_bid_quantity": "0.20762449",
+            "best_ask_quantity": "0.08219702"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:32.121712787Z",
+    "sequence_num": 810,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87443.91",
+            "volume_24_h": "1802.29743518",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.06515360067071",
+            "best_bid": "87443.91",
+            "best_ask": "87443.92",
+            "best_bid_quantity": "0.20762449",
+            "best_ask_quantity": "0.08219702"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:32.169156891Z",
+    "sequence_num": 812,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87443.91",
+            "volume_24_h": "1802.29743518",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.06515360067071",
+            "best_bid": "87443.91",
+            "best_ask": "87443.92",
+            "best_bid_quantity": "0.26478349",
+            "best_ask_quantity": "0.08219702"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:32.419961652Z",
+    "sequence_num": 818,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87443.91",
+            "volume_24_h": "1802.29743518",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.06515360067071",
+            "best_bid": "87443.91",
+            "best_ask": "87443.92",
+            "best_bid_quantity": "0.14107368",
+            "best_ask_quantity": "0.08119702"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:32.618864626Z",
+    "sequence_num": 825,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87443.92",
+            "volume_24_h": "1802.29743518",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.06514217221945",
+            "best_bid": "87443.91",
+            "best_ask": "87443.92",
+            "best_bid_quantity": "0.14107368",
+            "best_ask_quantity": "0.08119702"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:32.669758503Z",
+    "sequence_num": 828,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87443.92",
+            "volume_24_h": "1802.29743518",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.06514217221945",
+            "best_bid": "87443.91",
+            "best_ask": "87443.92",
+            "best_bid_quantity": "0.20761419",
+            "best_ask_quantity": "0.07405095"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:32.91962928Z",
+    "sequence_num": 832,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87443.92",
+            "volume_24_h": "1802.29743518",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.06514217221945",
+            "best_bid": "87443.91",
+            "best_ask": "87443.92",
+            "best_bid_quantity": "0.26477311",
+            "best_ask_quantity": "0.08219695"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:33.421621006Z",
+    "sequence_num": 845,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87443.92",
+            "volume_24_h": "1802.29743518",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.06514217221945",
+            "best_bid": "87443.91",
+            "best_ask": "87443.92",
+            "best_bid_quantity": "0.2647757",
+            "best_ask_quantity": "0.08219692"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:33.668569344Z",
+    "sequence_num": 851,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87443.92",
+            "volume_24_h": "1802.29743518",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.06514217221945",
+            "best_bid": "87443.91",
+            "best_ask": "87443.92",
+            "best_bid_quantity": "0.26477333",
+            "best_ask_quantity": "0.08219692"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:33.864796001Z",
+    "sequence_num": 857,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87443.92",
+            "volume_24_h": "1803.49157137",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.06514217221945",
+            "best_bid": "87443.91",
+            "best_ask": "87443.92",
+            "best_bid_quantity": "0.26477333",
+            "best_ask_quantity": "0.08219692"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:33.92027456Z",
+    "sequence_num": 859,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87443.92",
+            "volume_24_h": "1803.49157137",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.06514217221945",
+            "best_bid": "87443.91",
+            "best_ask": "87443.92",
+            "best_bid_quantity": "0.2647714",
+            "best_ask_quantity": "0.07855446"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:34.168177344Z",
+    "sequence_num": 866,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87443.92",
+            "volume_24_h": "1803.49157137",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.06514217221945",
+            "best_bid": "87443.91",
+            "best_ask": "87443.92",
+            "best_bid_quantity": "0.2647714",
+            "best_ask_quantity": "0.07756195"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:34.364169828Z",
+    "sequence_num": 872,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87445.56",
+            "volume_24_h": "1803.49157137",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.06326790621173",
+            "best_bid": "87443.91",
+            "best_ask": "87443.92",
+            "best_bid_quantity": "0.2647714",
+            "best_ask_quantity": "0.07756195"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:34.423767498Z",
+    "sequence_num": 874,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87445.56",
+            "volume_24_h": "1803.49157137",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.06326790621173",
+            "best_bid": "87451.79",
+            "best_ask": "87451.8",
+            "best_bid_quantity": "0.14706018",
+            "best_ask_quantity": "0.05162925"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:34.616791048Z",
+    "sequence_num": 879,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87451.79",
+            "volume_24_h": "1803.49157137",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.05614798107266",
+            "best_bid": "87451.79",
+            "best_ask": "87451.8",
+            "best_bid_quantity": "0.14706018",
+            "best_ask_quantity": "0.05162925"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:34.66900686Z",
+    "sequence_num": 882,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87451.79",
+            "volume_24_h": "1803.49157137",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.05614798107266",
+            "best_bid": "87451.79",
+            "best_ask": "87451.8",
+            "best_bid_quantity": "0.16659232",
+            "best_ask_quantity": "0.07759657"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:34.866336429Z",
+    "sequence_num": 888,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87451.8",
+            "volume_24_h": "1803.49157137",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.05613655262139",
+            "best_bid": "87451.79",
+            "best_ask": "87451.8",
+            "best_bid_quantity": "0.16659232",
+            "best_ask_quantity": "0.07759657"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:34.92070559Z",
+    "sequence_num": 889,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87451.8",
+            "volume_24_h": "1803.49157137",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.05613655262139",
+            "best_bid": "87451.79",
+            "best_ask": "87451.8",
+            "best_bid_quantity": "0.16655509",
+            "best_ask_quantity": "0.07759657"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:35.118206854Z",
+    "sequence_num": 893,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87451.79",
+            "volume_24_h": "1803.49157137",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.05614798107266",
+            "best_bid": "87451.79",
+            "best_ask": "87451.8",
+            "best_bid_quantity": "0.16655509",
+            "best_ask_quantity": "0.07759657"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:35.36836324Z",
+    "sequence_num": 899,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87451.8",
+            "volume_24_h": "1803.49157137",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.05613655262139",
+            "best_bid": "87451.79",
+            "best_ask": "87451.8",
+            "best_bid_quantity": "0.16655509",
+            "best_ask_quantity": "0.07759657"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:35.42236478Z",
+    "sequence_num": 901,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87451.8",
+            "volume_24_h": "1803.49157137",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.05613655262139",
+            "best_bid": "87451.79",
+            "best_ask": "87451.8",
+            "best_bid_quantity": "0.16655509",
+            "best_ask_quantity": "0.0781228"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:35.668188059Z",
+    "sequence_num": 909,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87451.8",
+            "volume_24_h": "1803.49157137",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.05613655262139",
+            "best_bid": "87451.79",
+            "best_ask": "87451.8",
+            "best_bid_quantity": "0.16655509",
+            "best_ask_quantity": "0.07710796"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:35.920491773Z",
+    "sequence_num": 913,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87451.8",
+            "volume_24_h": "1803.49157137",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.05613655262139",
+            "best_bid": "87451.79",
+            "best_ask": "87451.8",
+            "best_bid_quantity": "0.16655509",
+            "best_ask_quantity": "0.08122629"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:36.420172585Z",
+    "sequence_num": 923,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87451.8",
+            "volume_24_h": "1803.49157137",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.05613655262139",
+            "best_bid": "87451.79",
+            "best_ask": "87451.8",
+            "best_bid_quantity": "0.16358806",
+            "best_ask_quantity": "0.08124124"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:36.669464484Z",
+    "sequence_num": 932,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87451.8",
+            "volume_24_h": "1803.49157137",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.05613655262139",
+            "best_bid": "87451.79",
+            "best_ask": "87451.8",
+            "best_bid_quantity": "0.20292107",
+            "best_ask_quantity": "0.01523958"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:36.866662654Z",
+    "sequence_num": 937,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87451.79",
+            "volume_24_h": "1803.49157137",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.05614798107266",
+            "best_bid": "87451.79",
+            "best_ask": "87451.8",
+            "best_bid_quantity": "0.20292107",
+            "best_ask_quantity": "0.01523958"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:36.922417781Z",
+    "sequence_num": 939,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87451.79",
+            "volume_24_h": "1803.49157137",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.05614798107266",
+            "best_bid": "87451.79",
+            "best_ask": "87451.8",
+            "best_bid_quantity": "0.20292107",
+            "best_ask_quantity": "0.06051858"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:37.118737494Z",
+    "sequence_num": 942,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87451.8",
+            "volume_24_h": "1803.49157137",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.05613655262139",
+            "best_bid": "87451.79",
+            "best_ask": "87451.8",
+            "best_bid_quantity": "0.20292107",
+            "best_ask_quantity": "0.06051858"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:37.420540596Z",
+    "sequence_num": 951,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87451.8",
+            "volume_24_h": "1803.49157137",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.05613655262139",
+            "best_bid": "87451.79",
+            "best_ask": "87451.8",
+            "best_bid_quantity": "0.20291584",
+            "best_ask_quantity": "0.06022377"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:37.92098497Z",
+    "sequence_num": 962,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87451.8",
+            "volume_24_h": "1803.49157137",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.05613655262139",
+            "best_bid": "87451.79",
+            "best_ask": "87451.8",
+            "best_bid_quantity": "0.20291584",
+            "best_ask_quantity": "0.05852554"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:38.168340766Z",
+    "sequence_num": 970,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87451.8",
+            "volume_24_h": "1803.49157137",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.05613655262139",
+            "best_bid": "87451.79",
+            "best_ask": "87451.8",
+            "best_bid_quantity": "0.20291584",
+            "best_ask_quantity": "0.05728017"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:38.668428245Z",
+    "sequence_num": 982,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87451.8",
+            "volume_24_h": "1803.49157137",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.05613655262139",
+            "best_bid": "87451.79",
+            "best_ask": "87451.8",
+            "best_bid_quantity": "0.20291584",
+            "best_ask_quantity": "0.05616885"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:38.984278027Z",
+    "sequence_num": 990,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87451.8",
+            "volume_24_h": "1803.49157137",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.05613655262139",
+            "best_bid": "87451.79",
+            "best_ask": "87451.8",
+            "best_bid_quantity": "0.20291584",
+            "best_ask_quantity": "0.0555028"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:39.419539797Z",
+    "sequence_num": 1002,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87451.8",
+            "volume_24_h": "1803.49157137",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.05613655262139",
+            "best_bid": "87451.79",
+            "best_ask": "87451.8",
+            "best_bid_quantity": "0.20291562",
+            "best_ask_quantity": "0.0554916"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:40.669434871Z",
+    "sequence_num": 1022,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87451.8",
+            "volume_24_h": "1803.49157137",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.05613655262139",
+            "best_bid": "87451.79",
+            "best_ask": "87451.8",
+            "best_bid_quantity": "0.21434275",
+            "best_ask_quantity": "0.06120903"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:41.920835652Z",
+    "sequence_num": 1044,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87451.8",
+            "volume_24_h": "1803.49157137",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.05613655262139",
+            "best_bid": "87451.79",
+            "best_ask": "87451.8",
+            "best_bid_quantity": "0.21434253",
+            "best_ask_quantity": "0.06120903"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:42.120495865Z",
+    "sequence_num": 1046,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87451.79",
+            "volume_24_h": "1803.49157137",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.05614798107266",
+            "best_bid": "87451.79",
+            "best_ask": "87451.8",
+            "best_bid_quantity": "0.21434253",
+            "best_ask_quantity": "0.06120903"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:42.669396817Z",
+    "sequence_num": 1058,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87451.79",
+            "volume_24_h": "1803.49157137",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.05614798107266",
+            "best_bid": "87451.79",
+            "best_ask": "87451.8",
+            "best_bid_quantity": "0.19609253",
+            "best_ask_quantity": "0.06120903"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:42.919846108Z",
+    "sequence_num": 1062,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87451.79",
+            "volume_24_h": "1803.49157137",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.05614798107266",
+            "best_bid": "87451.79",
+            "best_ask": "87451.8",
+            "best_bid_quantity": "0.19648718",
+            "best_ask_quantity": "0.06120903"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:43.168929343Z",
+    "sequence_num": 1066,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87451.79",
+            "volume_24_h": "1803.49157137",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.05614798107266",
+            "best_bid": "87451.79",
+            "best_ask": "87451.8",
+            "best_bid_quantity": "0.19651653",
+            "best_ask_quantity": "0.06120903"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:43.868606445Z",
+    "sequence_num": 1078,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87451.79",
+            "volume_24_h": "1803.7283086",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.05614798107266",
+            "best_bid": "87451.79",
+            "best_ask": "87451.8",
+            "best_bid_quantity": "0.19651653",
+            "best_ask_quantity": "0.06120903"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:43.919093408Z",
+    "sequence_num": 1080,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87451.79",
+            "volume_24_h": "1803.7283086",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.05614798107266",
+            "best_bid": "87451.79",
+            "best_ask": "87451.8",
+            "best_bid_quantity": "0.19651653",
+            "best_ask_quantity": "0.06110223"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:44.118972366Z",
+    "sequence_num": 1082,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87451.8",
+            "volume_24_h": "1803.7283086",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.05613655262139",
+            "best_bid": "87451.79",
+            "best_ask": "87451.8",
+            "best_bid_quantity": "0.19651653",
+            "best_ask_quantity": "0.06110223"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:44.668654323Z",
+    "sequence_num": 1096,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87451.8",
+            "volume_24_h": "1803.7283086",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.05613655262139",
+            "best_bid": "87451.79",
+            "best_ask": "87451.8",
+            "best_bid_quantity": "0.19651653",
+            "best_ask_quantity": "0.05965966"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:44.919134141Z",
+    "sequence_num": 1100,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87451.8",
+            "volume_24_h": "1803.7283086",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.05613655262139",
+            "best_bid": "87451.79",
+            "best_ask": "87451.8",
+            "best_bid_quantity": "0.19651631",
+            "best_ask_quantity": "0.05965966"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:45.119889498Z",
+    "sequence_num": 1103,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87451.79",
+            "volume_24_h": "1803.7283086",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.05614798107266",
+            "best_bid": "87451.79",
+            "best_ask": "87451.8",
+            "best_bid_quantity": "0.19651631",
+            "best_ask_quantity": "0.05965966"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:45.16782789Z",
+    "sequence_num": 1106,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87451.79",
+            "volume_24_h": "1803.7283086",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.05614798107266",
+            "best_bid": "87451.79",
+            "best_ask": "87451.8",
+            "best_bid_quantity": "0.19651631",
+            "best_ask_quantity": "0.05943742"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:45.364917329Z",
+    "sequence_num": 1111,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87451.8",
+            "volume_24_h": "1803.7283086",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.05613655262139",
+            "best_bid": "87451.79",
+            "best_ask": "87451.8",
+            "best_bid_quantity": "0.19651631",
+            "best_ask_quantity": "0.05943742"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:46.168459032Z",
+    "sequence_num": 1121,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87451.8",
+            "volume_24_h": "1803.7283086",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.05613655262139",
+            "best_bid": "87451.79",
+            "best_ask": "87451.8",
+            "best_bid_quantity": "0.21476631",
+            "best_ask_quantity": "0.05943742"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:47.169071932Z",
+    "sequence_num": 1142,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87451.8",
+            "volume_24_h": "1803.7283086",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.05613655262139",
+            "best_bid": "87451.79",
+            "best_ask": "87451.8",
+            "best_bid_quantity": "0.21476609",
+            "best_ask_quantity": "0.05943742"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:47.370152819Z",
+    "sequence_num": 1148,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87451.79",
+            "volume_24_h": "1803.7283086",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.05614798107266",
+            "best_bid": "87451.79",
+            "best_ask": "87451.8",
+            "best_bid_quantity": "0.21476609",
+            "best_ask_quantity": "0.05943742"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:47.421042867Z",
+    "sequence_num": 1150,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87451.79",
+            "volume_24_h": "1803.7283086",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.05614798107266",
+            "best_bid": "87457.98",
+            "best_ask": "87457.99",
+            "best_bid_quantity": "0.12555151",
+            "best_ask_quantity": "0.00119399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:47.617246317Z",
+    "sequence_num": 1155,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87453.27",
+            "volume_24_h": "1803.7283086",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.0544565702852",
+            "best_bid": "87457.98",
+            "best_ask": "87457.99",
+            "best_bid_quantity": "0.12555151",
+            "best_ask_quantity": "0.00119399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:47.67014197Z",
+    "sequence_num": 1157,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87453.27",
+            "volume_24_h": "1803.7283086",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.0544565702852",
+            "best_bid": "87457.98",
+            "best_ask": "87457.99",
+            "best_bid_quantity": "0.10735563",
+            "best_ask_quantity": "0.00917862"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:47.919440097Z",
+    "sequence_num": 1164,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87453.27",
+            "volume_24_h": "1803.7283086",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.0544565702852",
+            "best_bid": "87457.98",
+            "best_ask": "87457.99",
+            "best_bid_quantity": "0.11875304",
+            "best_ask_quantity": "0.00917862"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:48.119911165Z",
+    "sequence_num": 1169,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87457.98",
+            "volume_24_h": "1803.7283086",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04907376973865",
+            "best_bid": "87457.98",
+            "best_ask": "87457.99",
+            "best_bid_quantity": "0.11875304",
+            "best_ask_quantity": "0.00917862"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:48.418874485Z",
+    "sequence_num": 1178,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87457.98",
+            "volume_24_h": "1803.7283086",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04907376973865",
+            "best_bid": "87457.98",
+            "best_ask": "87457.99",
+            "best_bid_quantity": "0.11871574",
+            "best_ask_quantity": "0.0144401"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:48.868659304Z",
+    "sequence_num": 1190,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87457.99",
+            "volume_24_h": "1803.7283086",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04906234128738",
+            "best_bid": "87457.98",
+            "best_ask": "87457.99",
+            "best_bid_quantity": "0.11871574",
+            "best_ask_quantity": "0.0144401"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:48.919140373Z",
+    "sequence_num": 1192,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87457.99",
+            "volume_24_h": "1803.7283086",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04906234128738",
+            "best_bid": "87457.98",
+            "best_ask": "87457.99",
+            "best_bid_quantity": "0.11867851",
+            "best_ask_quantity": "0.0144401"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:49.115318929Z",
+    "sequence_num": 1194,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87457.98",
+            "volume_24_h": "1803.7283086",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04907376973865",
+            "best_bid": "87457.98",
+            "best_ask": "87457.99",
+            "best_bid_quantity": "0.11867851",
+            "best_ask_quantity": "0.0144401"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:49.418636209Z",
+    "sequence_num": 1202,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87457.98",
+            "volume_24_h": "1803.7283086",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04907376973865",
+            "best_bid": "87457.98",
+            "best_ask": "87457.99",
+            "best_bid_quantity": "0.11867851",
+            "best_ask_quantity": "0.01447733"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:49.668943435Z",
+    "sequence_num": 1209,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87457.98",
+            "volume_24_h": "1803.7283086",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04907376973865",
+            "best_bid": "87457.98",
+            "best_ask": "87457.99",
+            "best_bid_quantity": "0.11864128",
+            "best_ask_quantity": "0.0144401"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:49.920617061Z",
+    "sequence_num": 1216,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87457.98",
+            "volume_24_h": "1803.7283086",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04907376973865",
+            "best_bid": "87457.98",
+            "best_ask": "87457.99",
+            "best_bid_quantity": "0.11860405",
+            "best_ask_quantity": "0.0144401"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:50.171018803Z",
+    "sequence_num": 1223,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87457.98",
+            "volume_24_h": "1803.7283086",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04907376973865",
+            "best_bid": "87457.98",
+            "best_ask": "87457.99",
+            "best_bid_quantity": "0.1185785",
+            "best_ask_quantity": "0.01439039"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:50.421680644Z",
+    "sequence_num": 1230,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87457.98",
+            "volume_24_h": "1803.7283086",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04907376973865",
+            "best_bid": "87457.98",
+            "best_ask": "87457.99",
+            "best_bid_quantity": "0.1185785",
+            "best_ask_quantity": "0.01442762"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:50.618585967Z",
+    "sequence_num": 1235,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87457.99",
+            "volume_24_h": "1803.7283086",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04906234128738",
+            "best_bid": "87457.98",
+            "best_ask": "87457.99",
+            "best_bid_quantity": "0.1185785",
+            "best_ask_quantity": "0.01442762"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:50.920020009Z",
+    "sequence_num": 1241,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87457.99",
+            "volume_24_h": "1803.7283086",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04906234128738",
+            "best_bid": "87457.98",
+            "best_ask": "87457.99",
+            "best_bid_quantity": "0.1185785",
+            "best_ask_quantity": "0.01439039"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:51.171401225Z",
+    "sequence_num": 1247,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87457.99",
+            "volume_24_h": "1803.7283086",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04906234128738",
+            "best_bid": "87457.98",
+            "best_ask": "87457.99",
+            "best_bid_quantity": "0.0686147",
+            "best_ask_quantity": "0.04676606"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:51.420830769Z",
+    "sequence_num": 1254,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87457.99",
+            "volume_24_h": "1803.7283086",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04906234128738",
+            "best_bid": "87457.98",
+            "best_ask": "87457.99",
+            "best_bid_quantity": "0.06850302",
+            "best_ask_quantity": "0.04676606"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:51.668884085Z",
+    "sequence_num": 1261,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87457.99",
+            "volume_24_h": "1803.7283086",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04906234128738",
+            "best_bid": "87457.98",
+            "best_ask": "87457.99",
+            "best_bid_quantity": "0.06850302",
+            "best_ask_quantity": "0.0132357"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:51.919598411Z",
+    "sequence_num": 1269,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87457.99",
+            "volume_24_h": "1803.7283086",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04906234128738",
+            "best_bid": "87457.98",
+            "best_ask": "87457.99",
+            "best_bid_quantity": "0.06846579",
+            "best_ask_quantity": "0.01266971"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:52.122776126Z",
+    "sequence_num": 1274,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87457.98",
+            "volume_24_h": "1803.7283086",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04907376973865",
+            "best_bid": "87457.98",
+            "best_ask": "87457.99",
+            "best_bid_quantity": "0.06846579",
+            "best_ask_quantity": "0.01266971"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:52.168756845Z",
+    "sequence_num": 1277,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87457.98",
+            "volume_24_h": "1803.7283086",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04907376973865",
+            "best_bid": "87457.98",
+            "best_ask": "87457.99",
+            "best_bid_quantity": "0.06495646",
+            "best_ask_quantity": "0.01266971"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:52.420071009Z",
+    "sequence_num": 1284,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87457.98",
+            "volume_24_h": "1803.7283086",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04907376973865",
+            "best_bid": "87457.98",
+            "best_ask": "87457.99",
+            "best_bid_quantity": "0.06491923",
+            "best_ask_quantity": "0.01266971"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:52.668916285Z",
+    "sequence_num": 1291,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87457.98",
+            "volume_24_h": "1803.7283086",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04907376973865",
+            "best_bid": "87457.98",
+            "best_ask": "87457.99",
+            "best_bid_quantity": "0.06491901",
+            "best_ask_quantity": "0.01266971"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:52.920025128Z",
+    "sequence_num": 1298,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87457.98",
+            "volume_24_h": "1803.7283086",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04907376973865",
+            "best_bid": "87457.98",
+            "best_ask": "87457.99",
+            "best_bid_quantity": "0.06504711",
+            "best_ask_quantity": "0.01266971"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:53.168759229Z",
+    "sequence_num": 1305,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87457.98",
+            "volume_24_h": "1803.7283086",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04907376973865",
+            "best_bid": "87457.98",
+            "best_ask": "87457.99",
+            "best_bid_quantity": "0.06504711",
+            "best_ask_quantity": "0.01248768"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:53.370086079Z",
+    "sequence_num": 1311,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87457.99",
+            "volume_24_h": "1803.7283086",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04906234128738",
+            "best_bid": "87457.98",
+            "best_ask": "87457.99",
+            "best_bid_quantity": "0.06504711",
+            "best_ask_quantity": "0.01248768"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:53.421953541Z",
+    "sequence_num": 1313,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87457.99",
+            "volume_24_h": "1803.7283086",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04906234128738",
+            "best_bid": "87457.98",
+            "best_ask": "87457.99",
+            "best_bid_quantity": "0.07621711",
+            "best_ask_quantity": "0.01252491"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:53.668663184Z",
+    "sequence_num": 1319,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87457.99",
+            "volume_24_h": "1803.7283086",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04906234128738",
+            "best_bid": "87457.98",
+            "best_ask": "87457.99",
+            "best_bid_quantity": "0.09688722",
+            "best_ask_quantity": "0.01248768"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:53.864963663Z",
+    "sequence_num": 1325,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87457.99",
+            "volume_24_h": "1803.90201034",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04906234128738",
+            "best_bid": "87457.98",
+            "best_ask": "87457.99",
+            "best_bid_quantity": "0.09688722",
+            "best_ask_quantity": "0.01248768"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:53.919123434Z",
+    "sequence_num": 1327,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87457.99",
+            "volume_24_h": "1803.90201034",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04906234128738",
+            "best_bid": "87457.98",
+            "best_ask": "87457.99",
+            "best_bid_quantity": "0.09681276",
+            "best_ask_quantity": "0.01248768"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:54.117260769Z",
+    "sequence_num": 1333,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87457.98",
+            "volume_24_h": "1803.90201034",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04907376973865",
+            "best_bid": "87457.98",
+            "best_ask": "87457.99",
+            "best_bid_quantity": "0.09681276",
+            "best_ask_quantity": "0.01248768"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:54.167962534Z",
+    "sequence_num": 1334,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87457.98",
+            "volume_24_h": "1803.90201034",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04907376973865",
+            "best_bid": "87457.98",
+            "best_ask": "87457.99",
+            "best_bid_quantity": "0.08321128",
+            "best_ask_quantity": "0.01248768"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:54.419084199Z",
+    "sequence_num": 1342,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87457.98",
+            "volume_24_h": "1803.90201034",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04907376973865",
+            "best_bid": "87457.98",
+            "best_ask": "87457.99",
+            "best_bid_quantity": "0.09940405",
+            "best_ask_quantity": "0.01248768"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "channel": "ticker",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:54.668429872Z",
+    "sequence_num": 1348,
+    "events": [
+      {
+        "type": "update",
+        "tickers": [
+          {
+            "type": "ticker",
+            "product_id": "BTC-USD",
+            "price": "87457.98",
+            "volume_24_h": "1803.90201034",
+            "low_24_h": "87349.52",
+            "high_24_h": "88000",
+            "low_52_w": "74420.69",
+            "high_52_w": "126296",
+            "price_percent_chg_24_h": "-0.04907376973865",
+            "best_bid": "87457.98",
+            "best_ask": "87457.99",
+            "best_bid_quantity": "0.08317405",
+            "best_ask_quantity": "0.01248768"
+          }
+        ]
+      }
+    ]
+  }
+]

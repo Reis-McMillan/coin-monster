@@ -1,0 +1,722 @@
+[
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:58:55.235917756Z",
+    "sequence_num": 16,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:58:55.228254868 +0000 UTC m=+380224.368377062",
+        "heartbeat_counter": 380224
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:58:56.240822245Z",
+    "sequence_num": 33,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:58:56.22813542 +0000 UTC m=+380225.368257621",
+        "heartbeat_counter": 380225
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:58:57.232108396Z",
+    "sequence_num": 47,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:58:57.228111663 +0000 UTC m=+380226.368233858",
+        "heartbeat_counter": 380226
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:58:58.235164625Z",
+    "sequence_num": 63,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:58:58.22819815 +0000 UTC m=+380227.368320345",
+        "heartbeat_counter": 380227
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:58:59.235250712Z",
+    "sequence_num": 83,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:58:59.228108213 +0000 UTC m=+380228.368230408",
+        "heartbeat_counter": 380228
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:00.232444384Z",
+    "sequence_num": 99,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:00.228127466 +0000 UTC m=+380229.368249660",
+        "heartbeat_counter": 380229
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:01.236335892Z",
+    "sequence_num": 126,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:01.228106169 +0000 UTC m=+380230.368228363",
+        "heartbeat_counter": 380230
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:02.234243187Z",
+    "sequence_num": 143,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:02.228265023 +0000 UTC m=+380231.368387222",
+        "heartbeat_counter": 380231
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:03.228298201Z",
+    "sequence_num": 162,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:03.228101998 +0000 UTC m=+380232.368224197",
+        "heartbeat_counter": 380232
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:04.231194354Z",
+    "sequence_num": 179,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:04.228246096 +0000 UTC m=+380233.368368295",
+        "heartbeat_counter": 380233
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:05.234426944Z",
+    "sequence_num": 199,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:05.228120233 +0000 UTC m=+380234.368242427",
+        "heartbeat_counter": 380234
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:06.239820815Z",
+    "sequence_num": 220,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:06.228100331 +0000 UTC m=+380235.368222526",
+        "heartbeat_counter": 380235
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:07.238028431Z",
+    "sequence_num": 242,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:07.228133975 +0000 UTC m=+380236.368256169",
+        "heartbeat_counter": 380236
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:08.2321529Z",
+    "sequence_num": 262,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:08.22812755 +0000 UTC m=+380237.368249744",
+        "heartbeat_counter": 380237
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:09.236013807Z",
+    "sequence_num": 281,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:09.228103826 +0000 UTC m=+380238.368226019",
+        "heartbeat_counter": 380238
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:10.237145845Z",
+    "sequence_num": 311,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:10.228147018 +0000 UTC m=+380239.368269217",
+        "heartbeat_counter": 380239
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:11.230549747Z",
+    "sequence_num": 333,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:11.228131725 +0000 UTC m=+380240.368253923",
+        "heartbeat_counter": 380240
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:12.240410565Z",
+    "sequence_num": 358,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:12.228596888 +0000 UTC m=+380241.368719087",
+        "heartbeat_counter": 380241
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:13.233818298Z",
+    "sequence_num": 377,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:13.228164342 +0000 UTC m=+380242.368286536",
+        "heartbeat_counter": 380242
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:14.239684506Z",
+    "sequence_num": 405,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:14.228306008 +0000 UTC m=+380243.368428202",
+        "heartbeat_counter": 380243
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:15.239065729Z",
+    "sequence_num": 433,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:15.228273453 +0000 UTC m=+380244.368395646",
+        "heartbeat_counter": 380244
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:16.233958297Z",
+    "sequence_num": 450,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:16.228100992 +0000 UTC m=+380245.368223190",
+        "heartbeat_counter": 380245
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:17.233105042Z",
+    "sequence_num": 471,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:17.228113699 +0000 UTC m=+380246.368235898",
+        "heartbeat_counter": 380246
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:18.237529923Z",
+    "sequence_num": 490,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:18.228607539 +0000 UTC m=+380247.368729754",
+        "heartbeat_counter": 380247
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:19.229434062Z",
+    "sequence_num": 511,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:19.228107903 +0000 UTC m=+380248.368230104",
+        "heartbeat_counter": 380248
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:20.240117626Z",
+    "sequence_num": 534,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:20.228142496 +0000 UTC m=+380249.368264689",
+        "heartbeat_counter": 380249
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:21.233188224Z",
+    "sequence_num": 561,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:21.228198051 +0000 UTC m=+380250.368320245",
+        "heartbeat_counter": 380250
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:22.233190601Z",
+    "sequence_num": 586,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:22.228193175 +0000 UTC m=+380251.368315369",
+        "heartbeat_counter": 380251
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:23.23357088Z",
+    "sequence_num": 599,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:23.228191339 +0000 UTC m=+380252.368313532",
+        "heartbeat_counter": 380252
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:24.22911598Z",
+    "sequence_num": 624,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:24.22855704 +0000 UTC m=+380253.368679244",
+        "heartbeat_counter": 380253
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:25.236558645Z",
+    "sequence_num": 651,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:25.228572052 +0000 UTC m=+380254.368694246",
+        "heartbeat_counter": 380254
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:26.229393943Z",
+    "sequence_num": 670,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:26.228110547 +0000 UTC m=+380255.368232757",
+        "heartbeat_counter": 380255
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:27.236923478Z",
+    "sequence_num": 694,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:27.228303073 +0000 UTC m=+380256.368425268",
+        "heartbeat_counter": 380256
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:28.236768835Z",
+    "sequence_num": 720,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:28.228129077 +0000 UTC m=+380257.368251270",
+        "heartbeat_counter": 380257
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:29.231995495Z",
+    "sequence_num": 742,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:29.228118468 +0000 UTC m=+380258.368240670",
+        "heartbeat_counter": 380258
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:30.234761987Z",
+    "sequence_num": 767,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:30.228103383 +0000 UTC m=+380259.368225577",
+        "heartbeat_counter": 380259
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:31.235945561Z",
+    "sequence_num": 787,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:31.228108882 +0000 UTC m=+380260.368231086",
+        "heartbeat_counter": 380260
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:32.24135196Z",
+    "sequence_num": 813,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:32.228109909 +0000 UTC m=+380261.368232112",
+        "heartbeat_counter": 380261
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:33.233397347Z",
+    "sequence_num": 841,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:33.228179928 +0000 UTC m=+380262.368302126",
+        "heartbeat_counter": 380262
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:34.243807094Z",
+    "sequence_num": 867,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:34.228127736 +0000 UTC m=+380263.368249942",
+        "heartbeat_counter": 380263
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:35.236082141Z",
+    "sequence_num": 895,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:35.228100245 +0000 UTC m=+380264.368222440",
+        "heartbeat_counter": 380264
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:36.228695221Z",
+    "sequence_num": 919,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:36.228290719 +0000 UTC m=+380265.368412915",
+        "heartbeat_counter": 380265
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:37.236520346Z",
+    "sequence_num": 944,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:37.228221506 +0000 UTC m=+380266.368343699",
+        "heartbeat_counter": 380266
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:38.23988415Z",
+    "sequence_num": 972,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:38.228311512 +0000 UTC m=+380267.368433707",
+        "heartbeat_counter": 380267
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:39.237626689Z",
+    "sequence_num": 995,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:39.228113951 +0000 UTC m=+380268.368236144",
+        "heartbeat_counter": 380268
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:40.237765072Z",
+    "sequence_num": 1013,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:40.228326849 +0000 UTC m=+380269.368449043",
+        "heartbeat_counter": 380269
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:41.240660149Z",
+    "sequence_num": 1033,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:41.228115159 +0000 UTC m=+380270.368237357",
+        "heartbeat_counter": 380270
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:42.229061226Z",
+    "sequence_num": 1049,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:42.228222751 +0000 UTC m=+380271.368344945",
+        "heartbeat_counter": 380271
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:43.230859338Z",
+    "sequence_num": 1067,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:43.228148802 +0000 UTC m=+380272.368270995",
+        "heartbeat_counter": 380272
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:44.234400654Z",
+    "sequence_num": 1085,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:44.228267419 +0000 UTC m=+380273.368389613",
+        "heartbeat_counter": 380273
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:45.234135293Z",
+    "sequence_num": 1108,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:45.228171394 +0000 UTC m=+380274.368293592",
+        "heartbeat_counter": 380274
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:46.240641353Z",
+    "sequence_num": 1123,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:46.228161089 +0000 UTC m=+380275.368283285",
+        "heartbeat_counter": 380275
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:47.229900789Z",
+    "sequence_num": 1144,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:47.228115078 +0000 UTC m=+380276.368237271",
+        "heartbeat_counter": 380276
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:48.238014409Z",
+    "sequence_num": 1172,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:48.228121076 +0000 UTC m=+380277.368243269",
+        "heartbeat_counter": 380277
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:49.236110948Z",
+    "sequence_num": 1197,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:49.228214296 +0000 UTC m=+380278.368336494",
+        "heartbeat_counter": 380278
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:50.228665391Z",
+    "sequence_num": 1225,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:50.228316094 +0000 UTC m=+380279.368438301",
+        "heartbeat_counter": 380279
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:51.235985087Z",
+    "sequence_num": 1249,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:51.228116012 +0000 UTC m=+380280.368238206",
+        "heartbeat_counter": 380280
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:52.240954034Z",
+    "sequence_num": 1279,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:52.22817341 +0000 UTC m=+380281.368295604",
+        "heartbeat_counter": 380281
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:53.234228551Z",
+    "sequence_num": 1307,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:53.228461712 +0000 UTC m=+380282.368583905",
+        "heartbeat_counter": 380282
+      }
+    ]
+  },
+  {
+    "channel": "heartbeats",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:59:54.232290689Z",
+    "sequence_num": 1336,
+    "events": [
+      {
+        "current_time": "2025-12-28 20:59:54.228328959 +0000 UTC m=+380283.368451153",
+        "heartbeat_counter": 380283
+      }
+    ]
+  }
+]

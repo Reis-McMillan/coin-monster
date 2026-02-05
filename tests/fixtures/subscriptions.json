@@ -1,0 +1,107 @@
+[
+  {
+    "channel": "subscriptions",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:58:54.832749851Z",
+    "sequence_num": 0,
+    "events": [
+      {
+        "subscriptions": {
+          "heartbeats": [
+            "heartbeats"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "channel": "subscriptions",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:58:54.842015593Z",
+    "sequence_num": 2,
+    "events": [
+      {
+        "subscriptions": {
+          "candles": [
+            "BTC-USD"
+          ],
+          "heartbeats": [
+            "heartbeats"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "channel": "subscriptions",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:58:55.187779332Z",
+    "sequence_num": 9,
+    "events": [
+      {
+        "subscriptions": {
+          "candles": [
+            "BTC-USD"
+          ],
+          "heartbeats": [
+            "heartbeats"
+          ],
+          "level2": [
+            "BTC-USD"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "channel": "subscriptions",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:58:55.193692958Z",
+    "sequence_num": 12,
+    "events": [
+      {
+        "subscriptions": {
+          "candles": [
+            "BTC-USD"
+          ],
+          "heartbeats": [
+            "heartbeats"
+          ],
+          "level2": [
+            "BTC-USD"
+          ],
+          "market_trades": [
+            "BTC-USD"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "channel": "subscriptions",
+    "client_id": "",
+    "timestamp": "2025-12-28T20:58:55.197698805Z",
+    "sequence_num": 15,
+    "events": [
+      {
+        "subscriptions": {
+          "candles": [
+            "BTC-USD"
+          ],
+          "heartbeats": [
+            "heartbeats"
+          ],
+          "level2": [
+            "BTC-USD"
+          ],
+          "market_trades": [
+            "BTC-USD"
+          ],
+          "ticker": [
+            "BTC-USD"
+          ]
+        }
+      }
+    ]
+  }
+]
