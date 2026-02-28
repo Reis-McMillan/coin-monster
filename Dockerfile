@@ -10,6 +10,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY app.py .
 COPY config/ config/
+RUN cp config/config.prod.py config/config.py
 COPY db/ db/
 COPY modules/ modules/
 COPY middleware/ middleware/
