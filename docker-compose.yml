@@ -12,6 +12,31 @@ services:
     environment:
       - QDB_PG_USER=admin
       - QDB_PG_PASSWORD=jeffreyisland
+    healthcheck:
+      test: ["CMD-SHELL", "cat < /dev/null > /dev/tcp/localhost/8812"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+      start_period: 10s
+
+  coin-monster:
+    build: .
+    container_name: coin-monster
+    restart: unless-stopped
+    ports:
+      - "8080:8080"
+    depends_on:
+      questdb:
+        condition: service_healthy
+    volumes:
+      - ${CB_API_KEY_PATH}:/run/secrets/cb_api_key.json:ro
+    environment:
+      - DB_HOST=questdb
+      - DB_PORT=8812
+      - DB_USER=admin
+      - DB_PASS=jeffreyisland
+      - CB_API_KEY_PATH=/run/secrets/cb_api_key.json
+      - QDB_CLIENT_CONF=http::addr=questdb:9000;username=admin;password=jeffreyisland;
 
 volumes:
   questdb_data:

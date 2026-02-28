@@ -8,19 +8,28 @@ jobs:
   test:
     runs-on: ubuntu-latest
     services:
-      postgres:
-        image: postgres:17
-        env:
-          POSTGRES_USER: sso
-          POSTGRES_PASSWORD: sso
-          POSTGRES_DB: sso
+      questdb:
+        image: questdb/questdb:latest
         ports:
-          - 5432:5432
+          - "9000:9000"
+          - "9009:9009"
+          - "8812:8812"
+        env:
+          QDB_PG_USER: admin
+          QDB_PG_PASSWORD: jeffreyisland
         options: >-
-          --health-cmd="pg_isready -U sso"
-          --health-interval=10s
-          --health-timeout=5s
-          --health-retries=5
+          --health-cmd "curl -sf http://localhost:9000 || exit 1"
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 10
+          --health-start-period 10s
+
+    env:
+      DB_HOST: localhost
+      DB_PORT: 8812
+      DB_USER: admin
+      DB_PASS: jeffreyisland
+      QDB_CLIENT_CONF: "http::addr=localhost:9000;username=admin;password=jeffreyisland;"
 
     steps:
       - uses: actions/checkout@v4
@@ -34,6 +43,11 @@ jobs:
         run: |
           sudo apt-get update && sudo apt-get install -y libpq-dev
           pip install -r requirements.txt
+
+      - name: Create dummy Coinbase API key
+        run: |
+          echo '{"name": "test-key", "privateKey": "test-secret"}' > /tmp/cb_api_key.json
+          echo "CB_API_KEY_PATH=/tmp/cb_api_key.json" >> $GITHUB_ENV
 
       - name: Use test config
         run: cp config/config.test.py config/config.py
@@ -77,13 +91,6 @@ jobs:
     needs: build-and-push
     runs-on: ubuntu-latest
     steps:
-      - name: Debug secrets
-        run: |
-          if [ -z "${{ secrets.APP_ID }}" ]; then echo "APP_ID is EMPTY"; else echo "APP_ID is set (length: ${#APP_ID_VAL})"; fi
-          if [ -z "${{ secrets.APP_PRIVATE_KEY }}" ]; then echo "APP_PRIVATE_KEY is EMPTY"; else echo "APP_PRIVATE_KEY is set"; fi
-        env:
-          APP_ID_VAL: ${{ secrets.APP_ID }}
-
       - name: Generate GitHub App token
         id: app-token
         uses: actions/create-github-app-token@v1
@@ -110,6 +117,6 @@ jobs:
           cd deploy
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add base/sso/sso-backend-deployment.yaml
-          git commit -m "redeploy sso backend (${{ github.sha }})"
+          git add base/coin-monster/coin-monster-deployment.yaml
+          git commit -m "redeploy coin-monster (${{ github.sha }})"
           git push

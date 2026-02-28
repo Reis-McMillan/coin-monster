@@ -1,0 +1,11 @@
+.venv
+__pycache__
+.pytest_cache
+.git
+.github
+tests
+deploy
+utils
+docker-compose.yml
+pytest.ini
+*.md
