@@ -46,7 +46,14 @@ jobs:
 
       - name: Create dummy Coinbase API key
         run: |
-          echo '{"name": "test-key", "privateKey": "test-secret"}' > /tmp/cb_api_key.json
+          python -c "
+          import json
+          from cryptography.hazmat.primitives.asymmetric.ec import generate_private_key, SECP256R1
+          from cryptography.hazmat.primitives.serialization import Encoding, PrivateFormat, NoEncryption
+          key = generate_private_key(SECP256R1())
+          pem = key.private_bytes(Encoding.PEM, PrivateFormat.PKCS8, NoEncryption()).decode()
+          json.dump({'name': 'test-key', 'privateKey': pem}, open('/tmp/cb_api_key.json', 'w'))
+          "
           echo "CB_API_KEY_PATH=/tmp/cb_api_key.json" >> $GITHUB_ENV
 
       - name: Use test config
