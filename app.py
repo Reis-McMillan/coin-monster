@@ -161,7 +161,7 @@ async def unsubscribe_coin(coin: str):
     return CoinResponse(coin=coin, message=f"Unsubscribed from {coin}")
 
 
-@app.get("/coins/{coin}/status", response_model=WebsocketStatus, dependencies=[Depends(authenticate)])
+@app.get("/coins/{coin}/status", response_model=WebsocketStatus)
 async def coin_status(coin: str):
     if coin not in app.state.websockets:
         raise HTTPException(status_code=404, detail=f"Not subscribed to {coin}")
@@ -173,6 +173,6 @@ async def coin_status(coin: str):
     )
 
 
-@app.get("/coins", response_model=list[str], dependencies=[Depends(authenticate)])
+@app.get("/coins", response_model=list[str])
 async def list_coins():
     return list(app.state.websockets.keys())
