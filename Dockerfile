@@ -14,6 +14,9 @@ COPY db/ db/
 COPY modules/ modules/
 COPY middleware/ middleware/
 
+RUN addgroup --system appgroup && adduser --system --ingroup appgroup appuser
+USER appuser
+
 EXPOSE 8080
 
 CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "8080"]
