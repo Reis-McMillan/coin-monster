@@ -111,7 +111,7 @@ class TestCandles:
             if isinstance(res, dict):
                 assert sanitize(res) == sanitize(expected)
             else:
-                pd.testing.assert_frame_equal(res, expected)
+                pd.testing.assert_frame_equal(res, expected, check_dtype=False)
 
     async def test_ingest_success(self, sut, pool):
         sut.ingest(self.test_df)

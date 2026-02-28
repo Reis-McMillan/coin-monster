@@ -3,6 +3,7 @@ from collections import defaultdict
 from cryptography.hazmat.primitives import serialization
 import json
 import jwt
+import logging
 from pandera.errors import SchemaError
 from questdb.ingress import IngressError
 import secrets
@@ -14,6 +15,8 @@ import websockets
 from config import config
 from db import Base
 from modules.order_book import OrderBook
+
+logger = logging.getLogger("coin-monster.websocket")
 
 def no_op(*args, **kwargs):
     pass
@@ -97,29 +100,32 @@ class Websocket:
             
             try:
                 channel_to_table[data.get('channel')](data)
-            except SchemaError:
-                # add logger logic
+            except SchemaError as e:
+                logger.warning("Schema validation failed for %s channel=%s: %s", self.coin, data.get('channel'), e)
                 continue
-            except Invalid:
-                # add logger logic
+            except Invalid as e:
+                logger.warning("Invalid message for %s channel=%s: %s", self.coin, data.get('channel'), e)
                 continue
-            except IngressError:
-                # add logger logic
+            except IngressError as e:
+                logger.error("DB ingestion error for %s channel=%s: %s", self.coin, data.get('channel'), e)
                 continue
 
     async def websocket(self):    
         max_message_size = 10 * 1024 * 1024  
 
-        async for websocket in websockets.connect(config.WS_API_URL, max_size=max_message_size):    
-            for channel in self.channels:        
+        async for websocket in websockets.connect(config.WS_API_URL, max_size=max_message_size):
+            logger.info("WebSocket connected for %s channels=%s", self.coin, self.channels)
+            for channel in self.channels:
                 await self._subscribe(websocket, channel)
-            
+
             try:
                 consumer_task = asyncio.create_task(
                     self._consume_messages(websocket)
                 )
                 await consumer_task
             except websockets.ConnectionClosedError:
+                logger.warning("WebSocket connection lost for %s, reconnecting...", self.coin)
                 continue
             except asyncio.CancelledError:
+                logger.debug("WebSocket task cancelled for %s", self.coin)
                 break

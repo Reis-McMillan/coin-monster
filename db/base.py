@@ -36,6 +36,7 @@ class Base():
 
     @classmethod
     def establish(cls):
+        cls.sender = Sender.from_env()
         cls.sender.establish()
 
     @classmethod

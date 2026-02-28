@@ -19,13 +19,13 @@ def mock_db():
 
 
 @pytest.fixture
-def client(mock_db):
+def client(mock_db, mock_jwks, auth_headers):
     with patch('app.initialize_db', new_callable=AsyncMock, return_value=mock_db), \
          patch.object(Base, 'establish'), \
          patch.object(Base, 'close', new_callable=AsyncMock):
         app.state.db = mock_db
         app.state.websockets = {}
-        with TestClient(app, raise_server_exceptions=False) as client:
+        with TestClient(app, raise_server_exceptions=False, headers=auth_headers) as client:
             yield client
 
 
@@ -133,11 +133,32 @@ class TestAppIntegration:
         assert response.status_code == 200
         assert response.json() == []
 
-    def test_lifespan_shutdown(self, mock_db):
+    def test_status_running_after_subscribe(self, client):
+        client.post("/coins/BTC-USD")
+
+        response = client.get("/coins/BTC-USD/status")
+
+        assert response.status_code == 200
+        body = response.json()
+        assert body["coin"] == "BTC-USD"
+        assert body["main"] == "running"
+        assert body["l2"] == "running"
+
+        client.delete("/coins/BTC-USD")
+
+    def test_status_not_found_after_unsubscribe(self, client):
+        client.post("/coins/BTC-USD")
+        client.delete("/coins/BTC-USD")
+
+        response = client.get("/coins/BTC-USD/status")
+
+        assert response.status_code == 404
+
+    def test_lifespan_shutdown(self, mock_db, mock_jwks, auth_headers):
         with patch('app.initialize_db', new_callable=AsyncMock, return_value=mock_db), \
              patch.object(Base, 'establish'), \
              patch.object(Base, 'close', new_callable=AsyncMock):
-            with TestClient(app, raise_server_exceptions=False) as client:
+            with TestClient(app, raise_server_exceptions=False, headers=auth_headers) as client:
                 client.post("/coins/BTC-USD")
                 client.post("/coins/ETH-USD")
 

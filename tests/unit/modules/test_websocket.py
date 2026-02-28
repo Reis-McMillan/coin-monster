@@ -6,7 +6,7 @@ import jwt
 from unittest.mock import MagicMock, patch, AsyncMock, call
 from cryptography.hazmat.primitives.asymmetric import ec
 from cryptography.hazmat.primitives import serialization
-from voluptuous.error import MultipleInvalid
+from voluptuous.error import Invalid, MultipleInvalid
 from websockets.exceptions import ConnectionClosedError
 from websockets.frames import Close
 
@@ -169,7 +169,7 @@ class TestWebsocket:
 
         mock_db.candles = MagicMock(side_effect=IngressError(420, "kirked!"))
         mock_db.level2 = MagicMock(side_effect=SchemaError(schema=None, data=None, message="kirked"))
-        mock_db.ticker = MagicMock(side_effect=MultipleInvalid())
+        mock_db.ticker = MagicMock(side_effect=MultipleInvalid([Invalid("test error")]))
 
         Websocket.set_db(mock_db)
         ws_instance = Websocket(coin='BTC-USD', channels=['heartbeats', 'candles', 'level2', 'market_trades', 'ticker'])
@@ -220,7 +220,7 @@ class TestWebsocket:
 
         mock_db.candles = MagicMock(side_effect=IngressError(420, "kirked!"))
         mock_db.level2 = MagicMock(side_effect=SchemaError(schema=None, data=None, message="kirked"))
-        mock_db.ticker = MagicMock(side_effect=MultipleInvalid())
+        mock_db.ticker = MagicMock(side_effect=MultipleInvalid([Invalid("test error")]))
 
         Websocket.set_db(mock_db)
         ws_instance = Websocket(coin='BTC-USD', channels=['heartbeats', 'candles', 'level2', 'market_trades', 'ticker'])

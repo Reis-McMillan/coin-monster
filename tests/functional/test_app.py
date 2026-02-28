@@ -1,3 +1,7 @@
+import asyncio
+import time
+
+import jwt
 import pytest
 from unittest.mock import AsyncMock, MagicMock, patch
 from fastapi.testclient import TestClient
@@ -17,10 +21,10 @@ def mock_db():
 
 
 @pytest.fixture
-def client(mock_db):
+def client(mock_db, mock_jwks, auth_headers):
     app.state.db = mock_db
     app.state.websockets = {}
-    with TestClient(app, raise_server_exceptions=False) as client:
+    with TestClient(app, raise_server_exceptions=False, headers=auth_headers) as client:
         yield client
 
 
@@ -160,3 +164,147 @@ class TestListCoins:
     def test_list_wrong_method_delete(self, client):
         response = client.delete("/coins")
         assert response.status_code == 405
+
+
+def _mock_task(done=False, cancelled=False, exception=None):
+    task = MagicMock(spec=asyncio.Task)
+    task.done.return_value = done
+    task.cancelled.return_value = cancelled
+    task.exception.return_value = exception
+    return task
+
+
+class TestCoinStatus:
+
+    def test_status_not_found(self, client):
+        response = client.get("/coins/BTC-USD/status")
+
+        assert response.status_code == 404
+        assert response.json()["detail"] == "Not subscribed to BTC-USD"
+
+    def test_status_running(self, client):
+        app.state.websockets["BTC-USD"] = {
+            "main": _mock_task(done=False),
+            "l2": _mock_task(done=False),
+        }
+
+        response = client.get("/coins/BTC-USD/status")
+        app.state.websockets.clear()
+
+        assert response.status_code == 200
+        assert response.json() == {"coin": "BTC-USD", "main": "running", "l2": "running"}
+
+    def test_status_cancelled(self, client):
+        app.state.websockets["BTC-USD"] = {
+            "main": _mock_task(done=True, cancelled=True),
+            "l2": _mock_task(done=True, cancelled=True),
+        }
+
+        response = client.get("/coins/BTC-USD/status")
+        app.state.websockets.clear()
+
+        assert response.status_code == 200
+        assert response.json() == {"coin": "BTC-USD", "main": "cancelled", "l2": "cancelled"}
+
+    def test_status_failed(self, client):
+        app.state.websockets["BTC-USD"] = {
+            "main": _mock_task(done=True, cancelled=False, exception=RuntimeError("boom")),
+            "l2": _mock_task(done=True, cancelled=False, exception=RuntimeError("boom")),
+        }
+
+        response = client.get("/coins/BTC-USD/status")
+        app.state.websockets.clear()
+
+        assert response.status_code == 200
+        assert response.json() == {"coin": "BTC-USD", "main": "failed", "l2": "failed"}
+
+    def test_status_done(self, client):
+        app.state.websockets["BTC-USD"] = {
+            "main": _mock_task(done=True, cancelled=False, exception=None),
+            "l2": _mock_task(done=True, cancelled=False, exception=None),
+        }
+
+        response = client.get("/coins/BTC-USD/status")
+        app.state.websockets.clear()
+
+        assert response.status_code == 200
+        assert response.json() == {"coin": "BTC-USD", "main": "done", "l2": "done"}
+
+    def test_status_mixed(self, client):
+        app.state.websockets["BTC-USD"] = {
+            "main": _mock_task(done=False),
+            "l2": _mock_task(done=True, cancelled=False, exception=RuntimeError("boom")),
+        }
+
+        response = client.get("/coins/BTC-USD/status")
+        app.state.websockets.clear()
+
+        assert response.status_code == 200
+        assert response.json() == {"coin": "BTC-USD", "main": "running", "l2": "failed"}
+
+    def test_status_wrong_method_post(self, client):
+        response = client.post("/coins/BTC-USD/status")
+        assert response.status_code == 405
+
+    def test_status_wrong_method_delete(self, client):
+        response = client.delete("/coins/BTC-USD/status")
+        assert response.status_code == 405
+
+
+class TestAuthentication:
+
+    def test_no_auth_header(self, mock_db, mock_jwks):
+        app.state.db = mock_db
+        app.state.websockets = {}
+        with TestClient(app, raise_server_exceptions=False) as client:
+            response = client.get("/coins")
+            assert response.status_code == 401
+
+    def test_expired_token(self, mock_db, mock_jwks, ed25519_keypair):
+        private_key, _ = ed25519_keypair
+        expired_token = jwt.encode(
+            {"sub": "test@example.com", "iat": 1000000, "exp": 1000001},
+            private_key,
+            algorithm="EdDSA",
+        )
+        app.state.db = mock_db
+        app.state.websockets = {}
+        with TestClient(
+            app,
+            raise_server_exceptions=False,
+            headers={"Authorization": f"Bearer {expired_token}"},
+        ) as client:
+            response = client.get("/coins")
+            assert response.status_code == 401
+            assert response.json()["detail"] == "Token expired"
+
+    def test_invalid_token(self, mock_db, mock_jwks):
+        app.state.db = mock_db
+        app.state.websockets = {}
+        with TestClient(
+            app,
+            raise_server_exceptions=False,
+            headers={"Authorization": "Bearer not.a.valid.token"},
+        ) as client:
+            response = client.get("/coins")
+            assert response.status_code == 401
+            assert response.json()["detail"] == "Invalid token"
+
+    def test_missing_subject_claim(self, mock_db, mock_jwks, ed25519_keypair):
+        private_key, _ = ed25519_keypair
+        now = int(time.time())
+        token = jwt.encode(
+            {"roles": ["admin"], "iat": now, "exp": now + 3600},
+            private_key,
+            algorithm="EdDSA",
+        )
+        app.state.db = mock_db
+        app.state.websockets = {}
+        with TestClient(
+            app,
+            raise_server_exceptions=False,
+            headers={"Authorization": f"Bearer {token}"},
+        ) as client:
+            response = client.get("/coins")
+            assert response.status_code == 401
+            assert response.json()["detail"] == "Invalid token: missing subject"

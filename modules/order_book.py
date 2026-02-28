@@ -1,3 +1,4 @@
+import logging
 import math
 import numpy as np
 import pandas as pd
@@ -5,6 +6,8 @@ from questdb.ingress import TimestampNanos
 from typing import Optional
 
 from db import OrderBook as OrderBookDB
+
+logger = logging.getLogger("coin-monster.order_book")
 
 def _round_up(n):
     '''Rounds up to higest digit. Examples:
@@ -28,6 +31,7 @@ def _ensure_capacity(
 
     if n_levels >= max_levels:
         new_max_levels = max(max_levels * 2, _round_up(n_levels))
+        logger.debug("Order book capacity expanded: %d -> %d levels", max_levels, new_max_levels)
         new_arr = np.zeros((new_max_levels, 2), dtype=np.float64)
         new_arr[:arr.shape[0]] = arr
         return new_arr, new_max_levels
@@ -150,6 +154,7 @@ class OrderBook:
 
     def consume_message(self, data: dict):
         if data['sequence_num'] < self.last_sequence_num:
+            logger.debug("Out-of-order message dropped for %s (seq %d < %d)", self.coin, data['sequence_num'], self.last_sequence_num)
             return
         else:
             self.last_sequence_num = data['sequence_num']

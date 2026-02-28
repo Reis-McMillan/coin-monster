@@ -45,7 +45,7 @@ class Candles(Base):
     def snapshot(self, data):
         df = pd.DataFrame(data=data['candles'])
         df['timestamp'] = pd.Timestamp(data['timestamp'])
-        df['start'] = pd.to_datetime(df['start'], unit='s')
+        df['start'] = pd.to_datetime(df['start'].astype(int), unit='s')
         return df
 
     def update(self, data):

@@ -11,7 +11,7 @@ services:
       - questdb_data:/var/lib/questdb
     environment:
       - QDB_PG_USER=admin
-      - QDB_PG_PASSWORD=quest
+      - QDB_PG_PASSWORD=jeffreyisland
 
 volumes:
   questdb_data:
