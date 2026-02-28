@@ -104,6 +104,7 @@ async def lifespan(app: FastAPI):
 
 
 app = FastAPI(lifespan=lifespan)
+app.add_middleware(RequestLoggingMiddleware)
 
 
 async def cancel_coin_tasks(app: FastAPI, coin: str):
