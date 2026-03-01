@@ -109,6 +109,9 @@ class Websocket:
             except IngressError as e:
                 logger.error("DB ingestion error for %s channel=%s: %s", self.coin, data.get('channel'), e)
                 continue
+            except Exception as e:
+                logger.error("Unexpected error for %s channel=%s: %s", self.coin, data.get('channel'), e)
+                raise
 
     async def websocket(self):    
         max_message_size = 10 * 1024 * 1024  
