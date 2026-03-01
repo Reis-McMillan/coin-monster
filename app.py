@@ -8,6 +8,7 @@ from pydantic import BaseModel
 from config import config
 from db import Base, Candles, Level2, MarketTrades, Ticker
 from db import OrderBook as OrderBookDB
+from modules.order_book import OrderBook
 from modules.websocket import Websocket
 from modules.logging import setup_logging, shutdown_logging
 from middleware.authenticated import authenticate
@@ -90,6 +91,7 @@ async def lifespan(app: FastAPI):
     app.state.order_books = {}
 
     Websocket.set_db(app.state.db)
+    OrderBook.set_order_book_db(app.state.db.order_book)
     Base.establish()
 
     yield
